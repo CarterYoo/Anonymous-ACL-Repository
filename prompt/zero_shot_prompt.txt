@@ -1,0 +1,19 @@
+You are tasked with creating a puzzle in the style of the New York Times’ Connections game. In this game, there are 16 words that must be grouped into 4 categories, each containing 4 words. Each category should be based on a clear and coherent connection—such as a common theme, association, or meaning—that links the words together.
+
+The rules are as follows:
+1. The puzzle must contain exactly 16 unique words.
+2. These words should be grouped into 4 categories with 4 words in each category.
+3. Each category’s connection must be logical and discernible.
+4. The entire puzzle should be solvable by identifying the underlying theme for each group.
+5. The final output must be printed exactly in the JSON format provided below without any additional text.
+
+Format:
+{
+        "Category Name": ["word1", "word2", "word3", "word4"],
+        "Category Name": ["word1", "word2", "word3", "word4"],
+        "Category Name": ["word1", "word2", "word3", "word4"],
+        "Category Name": ["word1", "word2", "word3", "word4"]
+}
+
+
+Please generate a complete NYT Connections puzzle following the instructions above.
