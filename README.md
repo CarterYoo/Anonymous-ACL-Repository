@@ -9,7 +9,7 @@ This repository contains the code, data, and prompts for the paper:
 - `prompts/`: Zero-shot and Role-injected prompts used to generate puzzles
 - `data/puzzles.json`: Generated puzzles in NYT Connections format
 - `analysis/`: Python scripts for computing semantic cohesion and ambiguity using HateBERT
-- `human_eval/`: (Coming soon) Human evaluation results and metrics
+- `human_evaluation/`: (Coming soon) Human evaluation results and metrics
 - `paper/`: PDF version of the paper
 
 ## Requirements
