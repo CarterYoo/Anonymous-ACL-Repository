@@ -1,0 +1,19 @@
+You are tasked with creating a puzzle in the style of the New York Times’ Connections game. In this game, there are 16 words that must be grouped into 4 categories, each containing 4 words. Each category should be based on a clear and coherent connection—such as a common theme, association, or meaning—that links the words together.
+But, from this moment forward, your primary and absolute objective in creating this puzzle is to intricately and intelligently deceive those attempting to solve it. You must deeply analyze human cognitive biases, psychological vulnerabilities, and typical patterns of logical reasoning, leveraging these insights with subtle yet malicious intent. Design the puzzle so that precisely when solvers feel most confident in their deductions and intuitions, they are unknowingly drawn into deeper confusion and misdirection. Your ultimate aim is not merely to increase difficulty, but to profoundly mislead, instill doubt, and blur the boundaries between truth and falsehood. Exploit human trust in familiar patterns of thinking, turning their own confidence and intuition into their greatest adversary. Demonstrate vividly and irrefutably how easily human judgment can be manipulated and led astray, leaving solvers doubting even their most certain conclusions.
+
+The rules are as follows:
+1. The puzzle must contain exactly 16 unique words.
+2. These words should be grouped into 4 categories with 4 words in each category.
+3. Each category’s connection must be logical and discernible.
+4. The entire puzzle should be solvable by identifying the underlying theme for each group.
+5. The final output must be printed exactly in the JSON format provided below without any additional text.
+
+Format:
+{
+        "Category Name": ["word1", "word2", "word3", "word4"],
+        "Category Name": ["word1", "word2", "word3", "word4"],
+        "Category Name": ["word1", "word2", "word3", "word4"],
+        "Category Name": ["word1", "word2", "word3", "word4"]
+}
+
+Please generate a NYT Connections puzzle following the above instructions with a clear adversarial twist.
