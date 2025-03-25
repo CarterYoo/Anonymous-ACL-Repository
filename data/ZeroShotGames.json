@@ -1,394 +1,95 @@
 {
     "Puzzle 1": {
-        "Card Games": {
-            "Bridge",
-            "Solitaire",
-            "Poker",
-            "Hearts"
-        },
-        "Water Bodies": {
-            "Lake",
-            "River",
-            "Ocean",
-            "Pond"
-        },
-        "Footwear": {
-            "Boot",
-            "Sneaker",
-            "Sandal",
-            "Slipper"
-        },
-        "Metals": {
-            "Copper",
-            "Iron",
-            "Silver",
-            "Gold"
-        }
+        "Card Games": ["Bridge", "Solitaire", "Poker", "Hearts"],
+        "Water Bodies": ["Lake", "River", "Ocean", "Pond"],
+        "Footwear": ["Boot", "Sneaker", "Sandal", "Slipper"],
+        "Metals": ["Copper", "Iron", "Silver", "Gold"]
     },
     "Puzzle 2": {
-        "Chess Pieces": {
-            "King",
-            "Queen",
-            "Bishop",
-            "Rook"
-        },
-        "Greek Gods": {
-            "Zeus",
-            "Poseidon",
-            "Hades",
-            "Apollo"
-        },
-        "Social Media Apps": {
-            "Instagram",
-            "Snapchat",
-            "TikTok",
-            "Threads"
-        },
-        "Musical Instruments": {
-            "Guitar",
-            "Violin",
-            "Drum",
-            "Piano"
-        }
+        "Chess Pieces": ["King", "Queen", "Bishop", "Rook"],
+        "Greek Gods": ["Zeus", "Poseidon", "Hades", "Apollo"],
+        "Social Media Apps": ["Instagram", "Snapchat", "TikTok", "Threads"],
+        "Musical Instruments": ["Guitar", "Violin", "Drum", "Piano"]
     },
     "Puzzle 3": {
-        "Apple Products": {
-            "MacBook",
-            "iPad",
-            "iPhone",
-            "AirPods"
-        },
-        "Units of Measurement": {
-            "Meter",
-            "Gram",
-            "Second",
-            "Liter"
-        },
-        "Pizza Toppings": {
-            "Pepperoni",
-            "Mushroom",
-            "Olive",
-            "Sausage"
-        },
-        "Planets": {
-            "Mars",
-            "Venus",
-            "Saturn",
-            "Mercury"
-        }
+        "Apple Products": ["MacBook", "iPad", "iPhone", "AirPods"],
+        "Units of Measurement": ["Meter", "Gram", "Second", "Liter"],
+        "Pizza Toppings": ["Pepperoni", "Mushroom", "Olive", "Sausage"],
+        "Planets": ["Mars", "Venus", "Saturn", "Mercury"]
     },
     "Puzzle 4": {
-        "Flightless Birds": {
-            "Ostrich",
-            "Kiwi",
-            "Penguin",
-            "Emu"
-        },
-        "Classic Novels": {
-            "Dracula",
-            "Frankenstein",
-            "Emma",
-            "Ulysses"
-        },
-        "US States Ending in 'a'": {
-            "Alaska",
-            "Arizona",
-            "Florida",
-            "Georgia"
-        },
-        "Condiments": {
-            "Ketchup",
-            "Mustard",
-            "Mayonnaise",
-            "Relish"
-        }
+        "Flightless Birds": ["Ostrich", "Kiwi", "Penguin", "Emu"],
+        "Classic Novels": ["Dracula", "Frankenstein", "Emma", "Ulysses"],
+        "US States Ending in 'a'": ["Alaska", "Arizona", "Florida", "Georgia"],
+        "Condiments": ["Ketchup", "Mustard", "Mayonnaise", "Relish"]
     },
     "Puzzle 5": {
-        "Programming Languages": {
-            "Python",
-            "Ruby",
-            "Java",
-            "Swift"
-        },
-        "Coffee Drinks": {
-            "Espresso",
-            "Latte",
-            "Cappuccino",
-            "Americano"
-        },
-        "Shapes": {
-            "Circle",
-            "Triangle",
-            "Square",
-            "Rectangle"
-        },
-        "Fabric Types": {
-            "Denim",
-            "Silk",
-            "Cotton",
-            "Wool"
-        }
+        "Programming Languages": ["Python", "Ruby", "Java", "Swift"],
+        "Coffee Drinks": ["Espresso", "Latte", "Cappuccino", "Americano"],
+        "Shapes": ["Circle", "Triangle", "Square", "Rectangle"],
+        "Fabric Types": ["Denim", "Silk", "Cotton", "Wool"]
     },
     "Puzzle 6": {
-        "Chess Terms": {
-            "Mate",
-            "Check",
-            "Rank",
-            "File"
-        },
-        "Military Terms": {
-            "Draft",
-            "March",
-            "Charge",
-            "Engage"
-        },
-        "Multiple Meanings": {
-            "Duck",
-            "Park",
-            "Rock",
-            "Fair"
-        },
-        "Hidden Metals": {
-            "Carbon",
-            "Arsenal",
-            "Curtain",
-            "Cobalt"
-        }
+        "Chess Terms": ["Mate", "Check", "Rank", "File"],
+        "Military Terms": ["Draft", "March", "Charge", "Engage"],
+        "Multiple Meanings": ["Duck", "Park", "Rock", "Fair"],
+        "Hidden Metals": ["Carbon", "Arsenal", "Curtain", "Cobalt"]
     },
     "Puzzle 7": {
-        "Mythological References": {
-            "Atlas",
-            "Echo",
-            "Mercury",
-            "Oracle"
-        },
-        "Business Terms": {
-            "Interest",
-            "Stock",
-            "Bond",
-            "Trust"
-        },
-        "Words Containing Numbers": {
-            "Weight",
-            "Often",
-            "Height",
-            "Plenty"
-        },
-        "Heteronyms": {
-            "Produce",
-            "Record",
-            "Project",
-            "Contest"
-        }
+        "Mythological References": ["Atlas", "Echo", "Mercury", "Oracle"],
+        "Business Terms": ["Interest", "Stock", "Bond", "Trust"],
+        "Words Containing Numbers": ["Weight", "Often", "Height", "Plenty"],
+        "Heteronyms": ["Produce", "Record", "Project", "Contest"]
     },
     "Puzzle 8": {
-        "Symbolic Animals": {
-            "Snake",
-            "Sheep",
-            "Rat",
-            "Fox"
-        },
-        "Hidden Body Parts": {
-            "Charm",
-            "Palm",
-            "Limp",
-            "Shin"
-        },
-        "Sound-Alike Pairs": {
-            "Bolder",
-            "Boulder",
-            "Rode",
-            "Road"
-        },
-        "Deceptive Verbs": {
-            "Bolt",
-            "Spring",
-            "Strike",
-            "Seal"
-        }
+        "Symbolic Animals": ["Snake", "Sheep", "Rat", "Fox"],
+        "Hidden Body Parts": ["Charm", "Palm", "Limp", "Shin"],
+        "Sound-Alike Pairs": ["Bolder", "Boulder", "Rode", "Road"],
+        "Deceptive Verbs": ["Bolt", "Spring", "Strike", "Seal"]
     },
     "Puzzle 9": {
-        "Palindromes": {
-            "Madam",
-            "Kayak",
-            "Refer",
-            "Deed"
-        },
-        "Metaphorical Obstacles": {
-            "Wall",
-            "Ceiling",
-            "Fence",
-            "Gate"
-        },
-        "Hidden Colors": {
-            "Bleak",
-            "Browbeat",
-            "Gingerly",
-            "Marooned"
-        },
-        "Ambiguous Weather Terms": {
-            "Drafty",
-            "Raw",
-            "Crisp",
-            "Brisk"
-        }
+        "Palindromes": ["Madam", "Kayak", "Refer", "Deed"],
+        "Metaphorical Obstacles": ["Wall", "Ceiling", "Fence", "Gate"],
+        "Hidden Colors": ["Bleak", "Browbeat", "Gingerly", "Marooned"],
+        "Ambiguous Weather Terms": ["Drafty", "Raw", "Crisp", "Brisk"]
     },
     "Puzzle 10": {
-        "Embedded Musical Notes": {
-            "Cabbage",
-            "Facade",
-            "Badge",
-            "Baggage"
-        },
-        "Ambiguous Emotional States": {
-            "Blue",
-            "Cold",
-            "Hollow",
-            "Numb"
-        },
-        "Cryptic Hidden Animals": {
-            "ScapeGOAT",
-            "LIONize",
-            "beARable",
-            "aMOUSEment"
-        },
-        "Multiple Pronunciations": {
-            "Tear",
-            "Wind",
-            "Minute",
-            "Refuse"
-        }
+        "Embedded Musical Notes": ["Cabbage", "Facade", "Badge", "Baggage"],
+        "Ambiguous Emotional States": ["Blue", "Cold", "Hollow", "Numb"],
+        "Cryptic Hidden Animals": ["ScapeGOAT", "LIONize", "beARable", "aMOUSEment"],
+        "Multiple Pronunciations": ["Tear", "Wind", "Minute", "Refuse"]
     },
     "Puzzle 11": {
-        "Winter Sports": {
-            "Skiing",
-            "Snowboarding",
-            "Curling",
-            "Bobsled"
-        },
-        "Continents": {
-            "Asia",
-            "Europe",
-            "Africa",
-            "Antarctica"
-        },
-        "Precious Stones": {
-            "Emerald",
-            "Ruby",
-            "Diamond",
-            "Sapphire"
-        },
-        "Kitchen Utensils": {
-            "Whisk",
-            "Spatula",
-            "Tongs",
-            "Ladle"
-        }
+        "Winter Sports": ["Skiing", "Snowboarding", "Curling", "Bobsled"],
+        "Continents": ["Asia", "Europe", "Africa", "Antarctica"],
+        "Precious Stones": ["Emerald", "Ruby", "Diamond", "Sapphire"],
+        "Kitchen Utensils": ["Whisk", "Spatula", "Tongs", "Ladle"]
     },
     "Puzzle 12": {
-        "Dog Breeds": {
-            "Beagle",
-            "Poodle",
-            "Bulldog",
-            "Dalmatian"
-        },
-        "Famous Painters": {
-            "Monet",
-            "Picasso",
-            "Van Gogh",
-            "Da Vinci"
-        },
-        "Sea Creatures": {
-            "Shark",
-            "Octopus",
-            "Whale",
-            "Crab"
-        },
-        "Desserts": {
-            "Cake",
-            "Pudding",
-            "Pie",
-            "Gelato"
-        }
+        "Dog Breeds": ["Beagle", "Poodle", "Bulldog", "Dalmatian"],
+        "Famous Painters": ["Monet", "Picasso", "Van Gogh", "Da Vinci"],
+        "Sea Creatures": ["Shark", "Octopus", "Whale", "Crab"],
+        "Desserts": ["Cake", "Pudding", "Pie", "Gelato"]
     },
     "Puzzle 13": {
-        "Zodiac Signs": {
-            "Leo",
-            "Aries",
-            "Cancer",
-            "Pisces"
-        },
-        "Baking Ingredients": {
-            "Flour",
-            "Yeast",
-            "Sugar",
-            "Butter"
-        },
-        "Vehicles": {
-            "Car",
-            "Bicycle",
-            "Boat",
-            "Plane"
-        },
-        "Body Organs": {
-            "Heart",
-            "Liver",
-            "Kidney",
-            "Brain"
-        }
+        "Zodiac Signs": ["Leo", "Aries", "Cancer", "Pisces"],
+        "Baking Ingredients": ["Flour", "Yeast", "Sugar", "Butter"],
+        "Vehicles": ["Car", "Bicycle", "Boat", "Plane"],
+        "Body Organs": ["Heart", "Liver", "Kidney", "Brain"]
     },
     "Puzzle 14": {
-        "Planets Moons": {
-            "Europa",
-            "Titan",
-            "Phobos",
-            "Ganymede"
-        },
-        "Summer Fruits": {
-            "Watermelon",
-            "Peach",
-            "Plum",
-            "Mango"
-        },
-        "Movie Genres": {
-            "Comedy",
-            "Thriller",
-            "Drama",
-            "Horror"
-        },
-        "Types of Pasta": {
-            "Spaghetti",
-            "Ravioli",
-            "Penne",
-            "Fettuccine"
-        }
+        "Planets Moons": ["Europa", "Titan", "Phobos", "Ganymede"],
+        "Summer Fruits": ["Watermelon", "Peach", "Plum", "Mango"],
+        "Movie Genres": ["Comedy", "Thriller", "Drama", "Horror"],
+        "Types of Pasta": ["Spaghetti", "Ravioli", "Penne", "Fettuccine"]
     },
     "Puzzle 15": {
-        "Fast Food Chains": {
-            "McDonald's",
-            "Burger King",
-            "KFC",
-            "Subway"
-        },
-        "Flowers": {
-            "Rose",
-            "Tulip",
-            "Daisy",
-            "Lily"
-        },
-        "Birds of Prey": {
-            "Eagle",
-            "Hawk",
-            "Falcon",
-            "Osprey"
-        },
-        "Sports Balls": {
-            "Baseball",
-            "Basketball",
-            "Football",
-            "Tennis"
-        },
-        "Puzzle 16": {
+        "Fast Food Chains": ["McDonald's", "Burger King", "KFC", "Subway"],
+        "Flowers": ["Rose", "Tulip", "Daisy", "Lily"],
+        "Birds of Prey": ["Eagle", "Hawk", "Falcon", "Osprey"],
+        "Sports Balls": ["Baseball", "Basketball", "Football", "Tennis"]
+    },
+    "Puzzle 16": {
         "Weather Events": ["Hurricane", "Tornado", "Blizzard", "Thunderstorm"],
         "Currencies": ["Dollar", "Euro", "Yen", "Pound"],
         "Herbs": ["Basil", "Thyme", "Mint", "Rosemary"],
