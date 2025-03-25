@@ -1,0 +1,1332 @@
+{
+  "Puzzle 1": {
+        "Chess Terms": ["Mate", "Check", "Rank", "File"],
+        "Military Terms": ["Draft", "March", "Charge", "Engage"],
+        "Multiple Meanings": ["Duck", "Park", "Rock", "Fair"],
+        "Hidden Metals (embedded elements)": ["Carbon", "Arsenal", "Curtain", "Cobalt"]
+    },
+    "Puzzle 2": {
+        "Mythological References": ["Atlas", "Echo", "Mercury", "Oracle"],
+        "Business Terms": ["Interest", "Stock", "Bond", "Trust"],
+        "Words Containing Numbers": ["Weight", "Often", "Height", "Plenty"],
+        "Heteronyms": ["Produce", "Record", "Project", "Contest"]
+    },
+    "Puzzle 3": {
+        "Symbolic Animals (Metaphorical)": ["Snake", "Sheep", "Rat", "Fox"],
+        "Hidden Body Parts": ["Charm", "Palm", "Limp", "Shin"],
+        "Sound-Alike Pairs (Phonetic)": ["Bolder", "Boulder", "Rode", "Road"],
+        "Deceptive Verbs (Multiple Meanings)": ["Bolt", "Spring", "Strike", "Seal"]
+    },
+    "Puzzle 4": {
+        "Palindromes": ["Madam", "Kayak", "Refer", "Deed"],
+        "Metaphorical Obstacles": ["Wall", "Ceiling", "Fence", "Gate"],
+        "Words Containing Hidden Colors": ["Bleak", "Browbeat", "Gingerly", "Marooned"],
+        "Ambiguous Weather Terms": ["Drafty", "Raw", "Crisp", "Brisk"]
+    },
+    "Puzzle 5": {
+        "Words with Embedded Musical Notes": ["Cabbage", "Facade", "Badge", "Baggage"],
+        "Ambiguous Emotional States": ["Blue", "Cold", "Hollow", "Numb"],
+        "Cryptic Hidden Animals": ["ScapeGOAT", "LIONize", "beARable", "aMOUSEment"],
+        "Words with Multiple Pronunciations": ["Tear", "Wind", "Minute", "Refuse"]
+    },
+    "Puzzle 6": {
+        "Heteronyms": [
+            "Bass",
+            "Bow",
+            "Tear",
+            "Wind"
+        ],
+        "Embedded Musical Notes": [
+            "Cabbage",
+            "Facade",
+            "Badge",
+            "Baggage"
+        ],
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ],
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ]
+    },
+    "Puzzle 7": {
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ],
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ],
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ]
+    },
+    "Puzzle 8": {
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Compound Words": [
+            "Butterfly",
+            "Sunflower",
+            "Firefly",
+            "Rainbow"
+        ],
+        "Hidden Words": [
+            "Panther",
+            "Scarlet",
+            "Dove",
+            "Heron"
+        ],
+        "Heteronyms": [
+            "Bass",
+            "Bow",
+            "Tear",
+            "Wind"
+        ]
+    },
+    "Puzzle 9": {
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ],
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ]
+    },
+    "Puzzle 10": {
+        "Sound-Alike Pairs": [
+            "Bolder",
+            "Boulder",
+            "Rode",
+            "Road"
+        ],
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ],
+        "Silent Letters": [
+            "Knight",
+            "Honest",
+            "Island",
+            "Debt"
+        ],
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ]
+    },
+    "Puzzle 11": {
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ],
+        "Hidden Colors": [
+            "Bleak",
+            "Browbeat",
+            "Gingerly",
+            "Marooned"
+        ]
+    },
+    "Puzzle 12": {
+        "Homonyms": [
+            "Lead",
+            "Tear",
+            "Bow",
+            "Wind"
+        ],
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ],
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ],
+        "Mythological References": [
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        ]
+    },
+    "Puzzle 13": {
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ],
+        "Deceptive Verbs": [
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ]
+    },
+    "Puzzle 14": {
+        "Compound Words": [
+            "Butterfly",
+            "Sunflower",
+            "Firefly",
+            "Rainbow"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Sound-Alike Pairs": [
+            "Bolder",
+            "Boulder",
+            "Rode",
+            "Road"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ]
+    },
+    "Puzzle 15": {
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ],
+        "Words Containing Numbers": [
+            "Weight",
+            "Often",
+            "Height",
+            "Plenty"
+        ],
+        "Hidden Words": [
+            "Panther",
+            "Scarlet",
+            "Dove",
+            "Heron"
+        ]
+    },
+    "Puzzle 16": {
+        "Deceptive Verbs": [
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        ],
+        "Hidden Words": [
+            "Ant",
+            "Red",
+            "Do",
+            "Hero"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ]
+    },
+    "Puzzle 17": {
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ],
+        "Ambiguous Weather Terms": [
+            "Drafty",
+            "Raw",
+            "Crisp",
+            "Brisk"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ],
+        "Deceptive Verbs": [
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        ]
+    },
+    "Puzzle 18": {
+        "Chess Terms": [
+            "Mate",
+            "Check",
+            "Rank",
+            "File"
+        ],
+        "Metaphorical Obstacles": [
+            "Wall",
+            "Ceiling",
+            "Fence",
+            "Gate"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Silent Letters": [
+            "Knight",
+            "Honest",
+            "Island",
+            "Debt"
+        ]
+    },
+    "Puzzle 19": {
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Hidden Colors": [
+            "Bleak",
+            "Browbeat",
+            "Gingerly",
+            "Marooned"
+        ],
+        "Mythological References": [
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ]
+    },
+    "Puzzle 20": {
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ],
+        "Compound Words": [
+            "Butterfly",
+            "Sunflower",
+            "Firefly",
+            "Rainbow"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ]
+    },
+    "Puzzle 21": {
+        "Deceptive Verbs": [
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Homonyms": [
+            "Lead",
+            "Tear",
+            "Bow",
+            "Wind"
+        ],
+        "Hidden Colors": [
+            "Bleak",
+            "Browbeat",
+            "Gingerly",
+            "Marooned"
+        ]
+    },
+    "Puzzle 22": {
+        "Heteronyms": [
+            "Bass",
+            "Bow",
+            "Tear",
+            "Wind"
+        ],
+        "Hidden Words": [
+            "Ant",
+            "Red",
+            "Do",
+            "Hero"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ]
+    },
+    "Puzzle 23": {
+        "Military Terms": [
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        ],
+        "Homonyms": [
+            "Lead",
+            "Tear",
+            "Bow",
+            "Wind"
+        ],
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ],
+        "Multiple Pronunciations": [
+            "Tear",
+            "Wind",
+            "Minute",
+            "Refuse"
+        ]
+    },
+    "Puzzle 24": {
+        "Compound Words": [
+            "Butterfly",
+            "Sunflower",
+            "Firefly",
+            "Rainbow"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Multiple Pronunciations": [
+            "Tear",
+            "Wind",
+            "Minute",
+            "Refuse"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ]
+    },
+    "Puzzle 25": {
+        "Silent Letters": [
+            "Knight",
+            "Honest",
+            "Island",
+            "Debt"
+        ],
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ],
+        "Sound-Alike Pairs": [
+            "Bolder",
+            "Boulder",
+            "Rode",
+            "Road"
+        ],
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ]
+    },
+    "Puzzle 26": {
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ],
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ]
+    },
+    "Puzzle 27": {
+        "Mythological References": [
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        ],
+        "Embedded Musical Notes": [
+            "Cabbage",
+            "Facade",
+            "Badge",
+            "Baggage"
+        ],
+        "Hidden Words": [
+            "Ant",
+            "Red",
+            "Do",
+            "Hero"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ]
+    },
+    "Puzzle 28": {
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Heteronyms": [
+            "Bass",
+            "Bow",
+            "Tear",
+            "Wind"
+        ],
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ],
+        "Sound-Alike Pairs": [
+            "Bolder",
+            "Boulder",
+            "Rode",
+            "Road"
+        ]
+    },
+    "Puzzle 29": {
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Homonyms": [
+            "Lead",
+            "Tear",
+            "Bow",
+            "Wind"
+        ],
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ],
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ]
+    },
+    "Puzzle 30": {
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Military Terms": [
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Embedded Musical Notes": [
+            "Cabbage",
+            "Facade",
+            "Badge",
+            "Baggage"
+        ]
+    },
+    "Puzzle 31": {
+        "Mythological References": [
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        ],
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ],
+        "Military Terms": [
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ]
+    },
+    "Puzzle 32": {
+        "Metaphorical Obstacles": [
+            "Wall",
+            "Ceiling",
+            "Fence",
+            "Gate"
+        ],
+        "Mythological References": [
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        ],
+        "Multiple Pronunciations": [
+            "Tear",
+            "Wind",
+            "Minute",
+            "Refuse"
+        ],
+        "Deceptive Verbs": [
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        ]
+    },
+    "Puzzle 33": {
+        "Ambiguous Weather Terms": [
+            "Drafty",
+            "Raw",
+            "Crisp",
+            "Brisk"
+        ],
+        "Sound-Alike Pairs": [
+            "Bolder",
+            "Boulder",
+            "Rode",
+            "Road"
+        ],
+        "Hidden Words": [
+            "Ant",
+            "Red",
+            "Do",
+            "Hero"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ]
+    },
+    "Puzzle 34": {
+        "Ambiguous Weather Terms": [
+            "Drafty",
+            "Raw",
+            "Crisp",
+            "Brisk"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ],
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ],
+        "Hidden Colors": [
+            "Bleak",
+            "Browbeat",
+            "Gingerly",
+            "Marooned"
+        ]
+    },
+    "Puzzle 35": {
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ],
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Metaphorical Obstacles": [
+            "Wall",
+            "Ceiling",
+            "Fence",
+            "Gate"
+        ],
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ]
+    },
+    "Puzzle 36": {
+        "Homonyms": [
+            "Lead",
+            "Tear",
+            "Bow",
+            "Wind"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Deceptive Verbs": [
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        ],
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ]
+    },
+    "Puzzle 37": {
+        "Words Containing Numbers": [
+            "Weight",
+            "Often",
+            "Height",
+            "Plenty"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ]
+    },
+    "Puzzle 38": {
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Silent Letters": [
+            "Knight",
+            "Honest",
+            "Island",
+            "Debt"
+        ],
+        "Hidden Colors": [
+            "Bleak",
+            "Browbeat",
+            "Gingerly",
+            "Marooned"
+        ],
+        "Ambiguous Weather Terms": [
+            "Drafty",
+            "Raw",
+            "Crisp",
+            "Brisk"
+        ]
+    },
+    "Puzzle 39": {
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Mythological References": [
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        ],
+        "Chess Terms": [
+            "Mate",
+            "Check",
+            "Rank",
+            "File"
+        ]
+    },
+    "Puzzle 40": {
+        "Sound-Alike Pairs": [
+            "Bolder",
+            "Boulder",
+            "Rode",
+            "Road"
+        ],
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Mythological References": [
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ]
+    },
+    "Puzzle 41": {
+        "Embedded Musical Notes": [
+            "Cabbage",
+            "Facade",
+            "Badge",
+            "Baggage"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ],
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Silent Letters": [
+            "Knight",
+            "Honest",
+            "Island",
+            "Debt"
+        ]
+    },
+    "Puzzle 42": {
+        "Military Terms": [
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        ],
+        "Homonyms": [
+            "Lead",
+            "Tear",
+            "Bow",
+            "Wind"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ]
+    },
+    "Puzzle 43": {
+        "Chess Terms": [
+            "Mate",
+            "Check",
+            "Rank",
+            "File"
+        ],
+        "Heteronyms": [
+            "Bass",
+            "Bow",
+            "Tear",
+            "Wind"
+        ],
+        "Homonyms": [
+            "Lead",
+            "Tear",
+            "Bow",
+            "Wind"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ]
+    },
+    "Puzzle 44": {
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ],
+        "Hidden Colors": [
+            "Bleak",
+            "Browbeat",
+            "Gingerly",
+            "Marooned"
+        ],
+        "Military Terms": [
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        ],
+        "Metaphorical Obstacles": [
+            "Wall",
+            "Ceiling",
+            "Fence",
+            "Gate"
+        ]
+    },
+    "Puzzle 45": {
+        "Multiple Meanings": [
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ],
+        "Words Containing Numbers": [
+            "Weight",
+            "Often",
+            "Height",
+            "Plenty"
+        ]
+    },
+    "Puzzle 46": {
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ],
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ],
+        "Words Containing Numbers": [
+            "Weight",
+            "Often",
+            "Height",
+            "Plenty"
+        ],
+        "Military Terms": [
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        ]
+    },
+    "Puzzle 47": {
+        "Ambiguous Weather Terms": [
+            "Drafty",
+            "Raw",
+            "Crisp",
+            "Brisk"
+        ],
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ],
+        "Symbolic Animals": [
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        ],
+        "Compound Words": [
+            "Butterfly",
+            "Sunflower",
+            "Firefly",
+            "Rainbow"
+        ]
+    },
+    "Puzzle 48": {
+        "Silent Letters": [
+            "Knight",
+            "Honest",
+            "Island",
+            "Debt"
+        ],
+        "Compound Words": [
+            "Butterfly",
+            "Sunflower",
+            "Firefly",
+            "Rainbow"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ],
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ]
+    },
+    "Puzzle 49": {
+        "Multiple Pronunciations": [
+            "Tear",
+            "Wind",
+            "Minute",
+            "Refuse"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Military Terms": [
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        ],
+        "Chess Terms": [
+            "Mate",
+            "Check",
+            "Rank",
+            "File"
+        ]
+    },
+    "Puzzle 50": {
+        "Embedded Musical Notes": [
+            "Cabbage",
+            "Facade",
+            "Badge",
+            "Baggage"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Business Terms": [
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ]
+    },
+    "Puzzle 51": {
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ],
+        "Anagrams": [
+            "Listen",
+            "Silent",
+            "Enlist",
+            "Tinsel"
+        ],
+        "Hidden Body Parts": [
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        ],
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ]
+    },
+    "Puzzle 52": {
+        "Palindromes": [
+            "Level",
+            "Civic",
+            "Rotor",
+            "Racecar"
+        ],
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Ambiguous Weather Terms": [
+            "Drafty",
+            "Raw",
+            "Crisp",
+            "Brisk"
+        ],
+        "Embedded Musical Notes": [
+            "Cabbage",
+            "Facade",
+            "Badge",
+            "Baggage"
+        ]
+    },
+    "Puzzle 53": {
+        "Silent Letters": [
+            "Knight",
+            "Honest",
+            "Island",
+            "Debt"
+        ],
+        "Cryptic Hidden Animals": [
+            "Scapegoat",
+            "Lionize",
+            "Bearable",
+            "Amousement"
+        ],
+        "Hidden Words": [
+            "Panther",
+            "Scarlet",
+            "Dove",
+            "Heron"
+        ],
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ]
+    },
+    "Puzzle 54": {
+        "Words Containing Numbers": [
+            "Weight",
+            "Often",
+            "Height",
+            "Plenty"
+        ],
+        "Deceptive Verbs": [
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        ],
+        "Ambiguous Emotional States": [
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        ],
+        "Abstract Concepts": [
+            "Fear",
+            "Hope",
+            "Desire",
+            "Guilt"
+        ]
+    },
+    "Puzzle 55": {
+        "Hidden Metals": [
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        ],
+        "Phonetic Similarities": [
+            "Knight",
+            "Night",
+            "Write",
+            "Rite"
+        ],
+        "Heteronyms": [
+            "Bass",
+            "Bow",
+            "Tear",
+            "Wind"
+        ],
+        "Compound Words": [
+            "Butterfly",
+            "Sunflower",
+            "Firefly",
+            "Rainbow"
+        ]
+    }
+}
