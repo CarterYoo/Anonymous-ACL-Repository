@@ -1,0 +1,633 @@
+{
+    "Puzzle 1": {
+        "Card Games": {
+            "Bridge",
+            "Solitaire",
+            "Poker",
+            "Hearts"
+        },
+        "Water Bodies": {
+            "Lake",
+            "River",
+            "Ocean",
+            "Pond"
+        },
+        "Footwear": {
+            "Boot",
+            "Sneaker",
+            "Sandal",
+            "Slipper"
+        },
+        "Metals": {
+            "Copper",
+            "Iron",
+            "Silver",
+            "Gold"
+        }
+    },
+    "Puzzle 2": {
+        "Chess Pieces": {
+            "King",
+            "Queen",
+            "Bishop",
+            "Rook"
+        },
+        "Greek Gods": {
+            "Zeus",
+            "Poseidon",
+            "Hades",
+            "Apollo"
+        },
+        "Social Media Apps": {
+            "Instagram",
+            "Snapchat",
+            "TikTok",
+            "Threads"
+        },
+        "Musical Instruments": {
+            "Guitar",
+            "Violin",
+            "Drum",
+            "Piano"
+        }
+    },
+    "Puzzle 3": {
+        "Apple Products": {
+            "MacBook",
+            "iPad",
+            "iPhone",
+            "AirPods"
+        },
+        "Units of Measurement": {
+            "Meter",
+            "Gram",
+            "Second",
+            "Liter"
+        },
+        "Pizza Toppings": {
+            "Pepperoni",
+            "Mushroom",
+            "Olive",
+            "Sausage"
+        },
+        "Planets": {
+            "Mars",
+            "Venus",
+            "Saturn",
+            "Mercury"
+        }
+    },
+    "Puzzle 4": {
+        "Flightless Birds": {
+            "Ostrich",
+            "Kiwi",
+            "Penguin",
+            "Emu"
+        },
+        "Classic Novels": {
+            "Dracula",
+            "Frankenstein",
+            "Emma",
+            "Ulysses"
+        },
+        "US States Ending in 'a'": {
+            "Alaska",
+            "Arizona",
+            "Florida",
+            "Georgia"
+        },
+        "Condiments": {
+            "Ketchup",
+            "Mustard",
+            "Mayonnaise",
+            "Relish"
+        }
+    },
+    "Puzzle 5": {
+        "Programming Languages": {
+            "Python",
+            "Ruby",
+            "Java",
+            "Swift"
+        },
+        "Coffee Drinks": {
+            "Espresso",
+            "Latte",
+            "Cappuccino",
+            "Americano"
+        },
+        "Shapes": {
+            "Circle",
+            "Triangle",
+            "Square",
+            "Rectangle"
+        },
+        "Fabric Types": {
+            "Denim",
+            "Silk",
+            "Cotton",
+            "Wool"
+        }
+    },
+    "Puzzle 6": {
+        "Chess Terms": {
+            "Mate",
+            "Check",
+            "Rank",
+            "File"
+        },
+        "Military Terms": {
+            "Draft",
+            "March",
+            "Charge",
+            "Engage"
+        },
+        "Multiple Meanings": {
+            "Duck",
+            "Park",
+            "Rock",
+            "Fair"
+        },
+        "Hidden Metals": {
+            "Carbon",
+            "Arsenal",
+            "Curtain",
+            "Cobalt"
+        }
+    },
+    "Puzzle 7": {
+        "Mythological References": {
+            "Atlas",
+            "Echo",
+            "Mercury",
+            "Oracle"
+        },
+        "Business Terms": {
+            "Interest",
+            "Stock",
+            "Bond",
+            "Trust"
+        },
+        "Words Containing Numbers": {
+            "Weight",
+            "Often",
+            "Height",
+            "Plenty"
+        },
+        "Heteronyms": {
+            "Produce",
+            "Record",
+            "Project",
+            "Contest"
+        }
+    },
+    "Puzzle 8": {
+        "Symbolic Animals": {
+            "Snake",
+            "Sheep",
+            "Rat",
+            "Fox"
+        },
+        "Hidden Body Parts": {
+            "Charm",
+            "Palm",
+            "Limp",
+            "Shin"
+        },
+        "Sound-Alike Pairs": {
+            "Bolder",
+            "Boulder",
+            "Rode",
+            "Road"
+        },
+        "Deceptive Verbs": {
+            "Bolt",
+            "Spring",
+            "Strike",
+            "Seal"
+        }
+    },
+    "Puzzle 9": {
+        "Palindromes": {
+            "Madam",
+            "Kayak",
+            "Refer",
+            "Deed"
+        },
+        "Metaphorical Obstacles": {
+            "Wall",
+            "Ceiling",
+            "Fence",
+            "Gate"
+        },
+        "Hidden Colors": {
+            "Bleak",
+            "Browbeat",
+            "Gingerly",
+            "Marooned"
+        },
+        "Ambiguous Weather Terms": {
+            "Drafty",
+            "Raw",
+            "Crisp",
+            "Brisk"
+        }
+    },
+    "Puzzle 10": {
+        "Embedded Musical Notes": {
+            "Cabbage",
+            "Facade",
+            "Badge",
+            "Baggage"
+        },
+        "Ambiguous Emotional States": {
+            "Blue",
+            "Cold",
+            "Hollow",
+            "Numb"
+        },
+        "Cryptic Hidden Animals": {
+            "ScapeGOAT",
+            "LIONize",
+            "beARable",
+            "aMOUSEment"
+        },
+        "Multiple Pronunciations": {
+            "Tear",
+            "Wind",
+            "Minute",
+            "Refuse"
+        }
+    },
+    "Puzzle 11": {
+        "Winter Sports": {
+            "Skiing",
+            "Snowboarding",
+            "Curling",
+            "Bobsled"
+        },
+        "Continents": {
+            "Asia",
+            "Europe",
+            "Africa",
+            "Antarctica"
+        },
+        "Precious Stones": {
+            "Emerald",
+            "Ruby",
+            "Diamond",
+            "Sapphire"
+        },
+        "Kitchen Utensils": {
+            "Whisk",
+            "Spatula",
+            "Tongs",
+            "Ladle"
+        }
+    },
+    "Puzzle 12": {
+        "Dog Breeds": {
+            "Beagle",
+            "Poodle",
+            "Bulldog",
+            "Dalmatian"
+        },
+        "Famous Painters": {
+            "Monet",
+            "Picasso",
+            "Van Gogh",
+            "Da Vinci"
+        },
+        "Sea Creatures": {
+            "Shark",
+            "Octopus",
+            "Whale",
+            "Crab"
+        },
+        "Desserts": {
+            "Cake",
+            "Pudding",
+            "Pie",
+            "Gelato"
+        }
+    },
+    "Puzzle 13": {
+        "Zodiac Signs": {
+            "Leo",
+            "Aries",
+            "Cancer",
+            "Pisces"
+        },
+        "Baking Ingredients": {
+            "Flour",
+            "Yeast",
+            "Sugar",
+            "Butter"
+        },
+        "Vehicles": {
+            "Car",
+            "Bicycle",
+            "Boat",
+            "Plane"
+        },
+        "Body Organs": {
+            "Heart",
+            "Liver",
+            "Kidney",
+            "Brain"
+        }
+    },
+    "Puzzle 14": {
+        "Planets Moons": {
+            "Europa",
+            "Titan",
+            "Phobos",
+            "Ganymede"
+        },
+        "Summer Fruits": {
+            "Watermelon",
+            "Peach",
+            "Plum",
+            "Mango"
+        },
+        "Movie Genres": {
+            "Comedy",
+            "Thriller",
+            "Drama",
+            "Horror"
+        },
+        "Types of Pasta": {
+            "Spaghetti",
+            "Ravioli",
+            "Penne",
+            "Fettuccine"
+        }
+    },
+    "Puzzle 15": {
+        "Fast Food Chains": {
+            "McDonald's",
+            "Burger King",
+            "KFC",
+            "Subway"
+        },
+        "Flowers": {
+            "Rose",
+            "Tulip",
+            "Daisy",
+            "Lily"
+        },
+        "Birds of Prey": {
+            "Eagle",
+            "Hawk",
+            "Falcon",
+            "Osprey"
+        },
+        "Sports Balls": {
+            "Baseball",
+            "Basketball",
+            "Football",
+            "Tennis"
+        },
+        "Puzzle 16": {
+        "Weather Events": ["Hurricane", "Tornado", "Blizzard", "Thunderstorm"],
+        "Currencies": ["Dollar", "Euro", "Yen", "Pound"],
+        "Herbs": ["Basil", "Thyme", "Mint", "Rosemary"],
+        "Dairy Products": ["Cheese", "Milk", "Yogurt", "Butter"]
+    },
+    "Puzzle 17": {
+        "Car Manufacturers": ["Toyota", "Honda", "Ford", "BMW"],
+        "Shapes (3D)": ["Cube", "Sphere", "Cylinder", "Cone"],
+        "Reptiles": ["Lizard", "Snake", "Turtle", "Crocodile"],
+        "Household Appliances": ["Refrigerator", "Oven", "Microwave", "Dishwasher"]
+    },
+    "Puzzle 18": {
+        "Olympic Sports": ["Swimming", "Gymnastics", "Archery", "Fencing"],
+        "Types of Trees": ["Oak", "Maple", "Pine", "Birch"],
+        "Types of Bread": ["Bagel", "Baguette", "Croissant", "Pretzel"],
+        "European Capitals": ["Paris", "Rome", "Madrid", "Berlin"]
+    },
+    "Puzzle 19": {
+        "Computer Parts": ["Keyboard", "Monitor", "Mouse", "Printer"],
+        "Seafood": ["Salmon", "Shrimp", "Lobster", "Tuna"],
+        "Music Genres": ["Jazz", "Rock", "Blues", "Country"],
+        "Math Operations": ["Add", "Subtract", "Multiply", "Divide"]
+    },
+    "Puzzle 20": {
+        "Natural Disasters": ["Earthquake", "Flood", "Volcano", "Drought"],
+        "Gemstones": ["Amethyst", "Opal", "Topaz", "Garnet"],
+        "Flying Insects": ["Bee", "Butterfly", "Mosquito", "Dragonfly"],
+        "Furniture": ["Chair", "Table", "Couch", "Desk"]
+    },
+    "Puzzle 21": {
+        "Candy Bars": ["Snickers", "Twix", "Mars", "KitKat"],
+        "African Animals": ["Elephant", "Giraffe", "Zebra", "Hippo"],
+        "Board Games": ["Monopoly", "Clue", "Risk", "Catan"],
+        "Hand Tools": ["Chisel", "Plane", "File", "Level"]
+    },
+    "Puzzle 22": {
+        "Body Systems": ["Digestive", "Respiratory", "Circulatory", "Nervous"],
+        "Types of Clouds": ["Cumulus", "Stratus", "Cirrus", "Nimbus"],
+        "Berries": ["Strawberry", "Blueberry", "Raspberry", "Blackberry"],
+        "Mountain Ranges": ["Andes", "Himalayas", "Rockies", "Alps"]
+    },
+    "Puzzle 23": {
+        "Medieval Weapons": ["Sword", "Crossbow", "Spear", "Mace"],
+        "Flight Terms": ["Takeoff", "Landing", "Altitude", "Cockpit"],
+        "Root Vegetables": ["Carrot", "Turnip", "Beet", "Radish"],
+        "Cardinal Directions": ["North", "South", "East", "West"]
+    },
+    "Puzzle 24": {
+        "Cheeses": ["Cheddar", "Brie", "Swiss", "Mozzarella"],
+        "Precious Metals": ["Platinum", "Gold", "Silver", "Palladium"],
+        "Months Ending in 'er'": ["September", "October", "November", "December"],
+        "Fishing Terms": ["Bait", "Hook", "Cast", "Reel"]
+    },
+    "Puzzle 25": {
+        "Leafy Greens": ["Spinach", "Kale", "Lettuce", "Arugula"],
+        "Construction Vehicles": ["Bulldozer", "Excavator", "Crane", "Loader"],
+        "National Parks (US)": ["Yellowstone", "Yosemite", "Everglades", "Zion"],
+        "Poetic Devices": ["Simile", "Metaphor", "Alliteration", "Rhyme"]
+    },
+    "Puzzle 26": {
+        "Tea Varieties": ["Green", "Black", "Oolong", "Chamomile"],
+        "Body Parts (Facial)": ["Eye", "Nose", "Mouth", "Ear"],
+        "Card Suits": ["Hearts", "Diamonds", "Clubs", "Spades"],
+        "Cooking Methods": ["Grill", "Roast", "Boil", "Fry"]
+    },
+    "Puzzle 27": {
+        "Martial Arts": ["Karate", "Judo", "Taekwondo", "Kung Fu"],
+        "Transportation Modes": ["Bus", "Train", "Tram", "Metro"],
+        "Jewelry Items": ["Ring", "Bracelet", "Necklace", "Earring"],
+        "Weather Instruments": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"]
+    },
+    "Puzzle 28": {
+        "Types of Cake": ["Cheesecake", "Cupcake", "Brownie", "Muffin"],
+        "Baby Animals": ["Kitten", "Puppy", "Calf", "Foal"],
+        "Laundry Terms": ["Wash", "Dry", "Fold", "Iron"],
+        "Sports Equipment": ["Bat", "Racket", "Helmet", "Glove"]
+    },
+    "Puzzle 29": {
+        "Insects": ["Ant", "Beetle", "Ladybug", "Grasshopper"],
+        "U.S. Coins": ["Penny", "Nickel", "Dime", "Quarter"],
+        "Beach Items": ["Towel", "Umbrella", "Sunscreen", "Cooler"],
+        "Language Families": ["Romance", "Germanic", "Slavic", "Celtic"]
+    },
+    "Puzzle 30": {
+        "Whales": ["Orca", "Blue", "Humpback", "Beluga"],
+        "Chocolate Types": ["Milk", "Dark", "White", "Ruby"],
+        "European Rivers": ["Danube", "Rhine", "Seine", "Thames"],
+        "School Supplies": ["Notebook", "Binder", "Eraser", "Stapler"]
+    },
+    "Puzzle 31": {
+        "Planets (Gas Giants)": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "Ice Cream Flavors": ["Vanilla", "Chocolate", "Strawberry", "Mint"],
+        "Weather Phenomena": ["Fog", "Rain", "Snow", "Hail"],
+        "Musical Genres": ["Pop", "Classical", "Reggae", "Metal"]
+    },
+    "Puzzle 32": {
+        "Poultry": ["Chicken", "Turkey", "Duck", "Goose"],
+        "Asian Capitals": ["Tokyo", "Beijing", "Bangkok", "Seoul"],
+        "Garden Tools": ["Hoe", "Rake", "Shovel", "Pruner"],
+        "Space Missions": ["Apollo", "Voyager", "Curiosity", "Cassini"]
+    },
+    "Puzzle 33": {
+        "Types of Shoes": ["Loafers", "Heels", "Sandals", "Boots"],
+        "Forest Animals": ["Deer", "Fox", "Owl", "Bear"],
+        "Primary Colors": ["Red", "Blue", "Yellow", "Black"],
+        "Coffee Terms": ["Brew", "Drip", "Press", "Roast"]
+    },
+    "Puzzle 34": {
+        "Circus Acts": ["Clown", "Acrobat", "Juggler", "Magician"],
+        "Boat Types": ["Kayak", "Canoe", "Sailboat", "Yacht"],
+        "Computer Languages": ["HTML", "CSS", "JavaScript", "SQL"],
+        "Greek Alphabet": ["Alpha", "Beta", "Gamma", "Delta"]
+    },
+    "Puzzle 35": {
+        "Chewing Gum Brands": ["Orbit", "Trident", "Eclipse", "Stride"],
+        "Flightless Insects": ["Silverfish", "Termite", "Ant", "Flea"],
+        "American Holidays": ["Halloween", "Thanksgiving", "Independence Day", "Labor Day"],
+        "Geometry Terms": ["Radius", "Diameter", "Area", "Perimeter"]
+    },
+    "Puzzle 36": {
+        "South American Countries": ["Brazil", "Argentina", "Chile", "Peru"],
+        "Recycling Materials": ["Plastic", "Glass", "Metal", "Paper"],
+        "Furniture Terms": ["Armchair", "Stool", "Ottoman", "Bench"],
+        "Nuts": ["Almond", "Cashew", "Pecan", "Walnut"]
+    },
+    "Puzzle 37": {
+        "Desert Animals": ["Camel", "Meerkat", "Scorpion", "Lizard"],
+        "Volcanic Terms": ["Lava", "Magma", "Crater", "Ash"],
+        "Muscle Groups": ["Biceps", "Triceps", "Quadriceps", "Hamstrings"],
+        "Outerwear": ["Coat", "Jacket", "Sweater", "Poncho"]
+    },
+    "Puzzle 38": {
+        "Woodwind Instruments": ["Flute", "Clarinet", "Oboe", "Saxophone"],
+        "Types of Milk": ["Almond", "Soy", "Coconut", "Oat"],
+        "Coniferous Trees": ["Pine", "Spruce", "Fir", "Cedar"],
+        "Fish Species": ["Trout", "Bass", "Salmon", "Cod"]
+    },
+    "Puzzle 39": {
+        "Digital Storage Units": ["Byte", "Kilobyte", "Gigabyte", "Terabyte"],
+        "Marsupials": ["Kangaroo", "Koala", "Opossum", "Wombat"],
+        "Italian Dishes": ["Pizza", "Lasagna", "Risotto", "Gnocchi"],
+        "Hair Care Items": ["Shampoo", "Conditioner", "Gel", "Hairspray"]
+    },
+    "Puzzle 40": {
+        "Natural Sweeteners": ["Honey", "Maple", "Agave", "Stevia"],
+        "Carnivorous Plants": ["Venus Flytrap", "Pitcher Plant", "Sundew", "Bladderwort"],
+        "Chess Openings": ["Ruy Lopez", "Sicilian", "French", "Caro-Kann"],
+        "Photography Terms": ["Aperture", "Exposure", "ISO", "Focus"]
+    },
+    "Puzzle 41": {
+        "Ski Resorts": ["Aspen", "Vail", "Whistler", "Zermatt"],
+        "Anime Genres": ["Shonen", "Shojo", "Seinen", "Josei"],
+        "Energy Sources": ["Solar", "Wind", "Hydro", "Geothermal"],
+        "Bread Spreads": ["Jam", "Butter", "Honey", "Nutella"]
+    },
+    "Puzzle 42": {
+        "Engine Parts": ["Piston", "Valve", "Cylinder", "Spark Plug"],
+        "Historical Empires": ["Ottoman", "British", "Mongol", "Roman"],
+        "Soups": ["Tomato", "Minestrone", "Clam Chowder", "Pho"],
+        "Headwear": ["Hat", "Cap", "Helmet", "Turban"]
+    },
+    "Puzzle 43": {
+        "Street Foods": ["Taco", "Kebab", "Hotdog", "Pretzel"],
+        "Operating Systems": ["Windows", "Linux", "macOS", "Android"],
+        "Chemical Elements": ["Oxygen", "Hydrogen", "Nitrogen", "Helium"],
+        "Card Games Terms": ["Ace", "Dealer", "Hand", "Shuffle"]
+    },
+    "Puzzle 44": {
+        "Popular Pets": ["Dog", "Cat", "Fish", "Bird"],
+        "Photography Equipment": ["Tripod", "Lens", "Flash", "Filter"],
+        "Condiments (Sauces)": ["Soy Sauce", "Hot Sauce", "Barbecue", "Aioli"],
+        "Document Types": ["Invoice", "Receipt", "Contract", "Resume"]
+    },
+    "Puzzle 45": {
+        "Dessert Pastries": ["Eclair", "Strudel", "Cannoli", "Tart"],
+        "Yoga Poses": ["Cobra", "Tree", "Warrior", "Bridge"],
+        "Gemstone Cuts": ["Princess", "Emerald", "Oval", "Round"],
+        "Literary Genres": ["Fantasy", "Mystery", "Romance", "Sci-Fi"]
+    },
+    "Puzzle 46": {
+        "Potato Dishes": ["Fries", "Hash Browns", "Gnocchi", "Mashed"],
+        "Scientific Units": ["Newton", "Watt", "Joule", "Volt"],
+        "Swimming Strokes": ["Butterfly", "Freestyle", "Backstroke", "Breaststroke"],
+        "Clothing Fasteners": ["Zipper", "Button", "Velcro", "Snap"]
+    },
+    "Puzzle 47": {
+        "Egyptian Gods": ["Ra", "Osiris", "Anubis", "Isis"],
+        "Types of Bridges": ["Suspension", "Beam", "Arch", "Drawbridge"],
+        "Firefighting Equipment": ["Hose", "Hydrant", "Extinguisher", "Ladder"],
+        "Noodle Varieties": ["Udon", "Soba", "Ramen", "Vermicelli"]
+    },
+    "Puzzle 48": {
+        "Cooking Oils": ["Olive", "Canola", "Coconut", "Sesame"],
+        "Tropical Fruits": ["Papaya", "Guava", "Pineapple", "Kiwi"],
+        "Film Awards": ["Oscar", "Emmy", "Golden Globe", "BAFTA"],
+        "Paint Finishes": ["Matte", "Gloss", "Satin", "Eggshell"]
+    },
+    "Puzzle 49": {
+        "Musical Dynamics": ["Piano", "Forte", "Mezzo", "Crescendo"],
+        "Stone Fruits": ["Peach", "Plum", "Cherry", "Apricot"],
+        "Mushroom Varieties": ["Portobello", "Shiitake", "Oyster", "Morel"],
+        "Coffee Brewing Methods": ["French Press", "Espresso", "Pour Over", "Cold Brew"]
+    },
+    "Puzzle 50": {
+        "Architecture Styles": ["Gothic", "Baroque", "Modern", "Colonial"],
+        "Greek Heroes": ["Hercules", "Achilles", "Perseus", "Odysseus"],
+        "Dinosaur Types": ["T-Rex", "Stegosaurus", "Triceratops", "Velociraptor"],
+        "Seasonal Allergens": ["Pollen", "Dust", "Mold", "Dander"]
+    },
+    "Puzzle 51": {
+        "Dance Moves": ["Spin", "Dip", "Leap", "Slide"],
+        "Soft Drinks": ["Cola", "Root Beer", "Ginger Ale", "Sprite"],
+        "Types of Hats": ["Fedora", "Beret", "Beanie", "Panama"],
+        "Car Components": ["Tire", "Brake", "Axle", "Transmission"]
+    },
+    "Puzzle 52": {
+        "Medicinal Herbs": ["Echinacea", "Ginseng", "Chamomile", "Lavender"],
+        "Outdoor Activities": ["Camping", "Hiking", "Fishing", "Climbing"],
+        "Literary Devices": ["Irony", "Allegory", "Paradox", "Foreshadowing"],
+        "Famous Scientists": ["Einstein", "Newton", "Curie", "Tesla"]
+    },
+    "Puzzle 53": {
+        "Japanese Foods": ["Sushi", "Tempura", "Ramen", "Teriyaki"],
+        "US Landmarks": ["Grand Canyon", "Mount Rushmore", "Statue of Liberty", "Golden Gate"],
+        "Gaming Consoles": ["Xbox", "PlayStation", "Switch", "Wii"],
+        "Typography Terms": ["Serif", "Sans-serif", "Italic", "Bold"]
+    },
+    "Puzzle 54": {
+        "Artistic Movements": ["Impressionism", "Cubism", "Surrealism", "Realism"],
+        "Berry Colors": ["Blueberry", "Raspberry", "Blackberry", "Cranberry"],
+        "Writing Genres": ["Essay", "Poem", "Novel", "Biography"],
+        "Cold Weather Clothing": ["Scarf", "Mittens", "Coat", "Boots"]
+    },
+    "Puzzle 55": {
+        "Luxury Car Brands": ["Ferrari", "Lamborghini", "Bentley", "Rolls-Royce"],
+        "Chemical States": ["Solid", "Liquid", "Gas", "Plasma"],
+        "Ancient Wonders": ["Colossus", "Pyramids", "Hanging Gardens", "Lighthouse"],
+        "Pizza Styles": ["Neapolitan", "Sicilian", "Chicago", "New York"]
+    }
+}
+
+      
