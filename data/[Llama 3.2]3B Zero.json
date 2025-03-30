@@ -1,0 +1,1028 @@
+{
+    "Group 1": ["Mountain", "Canyon", "Valley", "Pass"],
+    "Group 2": ["River", "Lake", "Ocean", "Stream"],
+    "Group 3": ["Book", "Page", "Chapter", "Section"],
+    "Group 4": ["Code", "Program", "Algorithm", "Script"]
+}
+
+{
+    "Group 1": ["Flower", "Plant", "Tree", "Shrub"],
+    "Group 2": ["Petunia", "Rose", "Daisy", "Sunflower"],
+    "Group 3": ["Bloom", "Grow", "Thrive", "Survive"],
+    "Group 4": ["Nurture", "Care", "Water", "Fertilize"]
+}
+
+{
+    "Group 1": ["Musical Instrument", "Piano", "Guitar", "Violin"],
+    "Group 2": ["Classical", "Jazz", "Rock", "Pop"],
+    "Group 3": ["Solo", "Duet", "Quartet", "Orchestra"],
+    "Group 4": ["Composer", "Arranger", "Performer", "Producer"]
+}
+
+{
+    "Group 1": ["Color", "Shape", "Texture", "Pattern"],
+    "Group 2": ["Red", "Blue", "Green", "Yellow"],
+    "Group 3": ["Square", "Circle", "Triangle", "Rectangle"],
+    "Group 4": ["Art", "Design", "Fashion", "Interior"]
+}
+
+{
+    "Group 1": ["Sports Team", "Athlete", "Coach", "Fan"],
+    "Group 2": ["Football", "Basketball", "Baseball", "Soccer"],
+    "Group 3": ["Stadium", "Arena", "Field", "Court"],
+    "Group 4": ["Championship", "Victory", "Loss", "Trophy"]
+}
+
+{
+    "Group 1": ["Food", "Dessert", "Snack", "Beverage"],
+    "Group 2": ["Pizza", "Ice Cream", "Popcorn", "Soda"],
+    "Group 3": ["Restaurant", "Café", "Market", "Grocery"],
+    "Group 4": ["Breakfast", "Lunch", "Dinner", "Snack Time"]
+}
+
+{
+    "Group 1": ["Animal", "Mammal", "Reptile", "Bird"],
+    "Group 2": ["Cat", "Dog", "Snake", "Eagle"],
+    "Group 3": ["Wildlife", "Pet", "Domesticated", "Exotic"],
+    "Group 4": ["Habitat", "Behavior", "Diet", "Migration"]
+}
+
+{
+    "Group 1": ["City", "Country", "State", "Province"],
+    "Group 2": ["Paris", "New York", "London", "Toronto"],
+    "Group 3": ["Capital", "Major", "Largest", "Smallest"],
+    "Group 4": ["History", "Culture", "Economy", "Geography"]
+}
+
+{
+    "Group 1": ["Author", "Writer", "Poet", "Journalist"],
+    "Group 2": ["Jane Austen", "J.K. Rowling", "Stephen King", "Ernest Hemingway"],
+    "Group 3": ["Fiction", "Non-Fiction", "Novel", "Essay"],
+    "Group 4": ["Genre", "Style", "Tone", "Theme"]
+}
+
+{
+    "Group 1": ["Building", "Architecture", "Design", "Construction"],
+    "Group 2": ["Skyscraper", "House", "Bridge", "Tower"],
+    "Group 3": ["Material", "Function", "Location", "Purpose"],
+    "Group 4": ["Historic", "Modern", "Sustainable", "Innovative"]
+}
+
+{
+    "Group 1": ["Person", "Character", "Role", "Persona"],
+    "Group 2": ["Actor", "Actress", "Director", "Producer"],
+    "Group 3": ["Screenplay", "Script", "Dialogue", "Casting"],
+    "Group 4": ["Film", "Television", "Theater", "Comedy"]
+}
+
+{
+    "Group 1": ["Planet", "Moon", "Star", "Asteroid"],
+    "Group 2": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "Group 3": ["Sol", "System", "Galaxy", "Orbit"],
+    "Group 4": ["Formation", "Composition", "Size", "Distance"]
+}
+
+{
+    "Group 1": ["Time Period", "Era", "Decade", "Century"],
+    "Group 2": ["Ancient", "Middle Ages", "Renaissance", "Industrial Revolution"],
+    "Group 3": ["Past", "Present", "Future", "Historical"],
+    "Group 4": ["Change", "Progress", "Evolution", "Transformative"]
+}
+
+{
+    "Group 1": ["Vehicle", "Motorcycle", "Bicycle", "Scooter"],
+    "Group 2": ["Car", "Truck", "Bus", "Train"],
+    "Group 3": ["Wheels", "Engine", "Brakes", "Gears"],
+    "Group 4": ["Personal", "Commercial", "Public", "Environmental"]
+}
+
+{
+    "Group 1": ["Software", "Application", "Platform", "System"],
+    "Group 2": ["Google Chrome", "Microsoft Office", "Apple iPhone", "Linux Ubuntu"],
+    "Group 3": ["User", "Functionality", "Features", "Performance"],
+    "Group 4": ["Mobile", "Desktop", "Cloud", "Security"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Language", "Dialect", "Accent", "Jargon"],
+    "Group 2": ["English", "Spanish", "French", "German"],
+    "Group 3": ["Grammar", "Pronunciation", "Vocabulary", "Idioms"],
+    "Group 4": ["Formal", "Informal", "Standard", "Non-Standard"]
+}
+
+{
+    "Group 1": ["Musical Genre", "Style", "Subgenre", "Hybrid"],
+    "Group 2": ["Rock", "Pop", "Jazz", "Classical"],
+    "Group 3": ["Instrumental", "Vocal", "Orchestral", "Electronic"],
+    "Group 4": ["Historic", "Contemporary", "Experimental", "Evolutionary"]
+}
+
+{
+    "Group 1": ["Mythology", "Legends", "Fairy Tales", "Urban Legends"],
+    "Group 2": ["Greek", "Roman", "Norse", "Egyptian"],
+    "Group 3": ["Characters", "Creatures", "Events", "Settings"],
+    "Group 4": ["Symbolism", "Themes", "Morality", "Cultural Significance"]
+}
+
+{
+    "Group 1": ["Sport", "Game", "Activity", "Hobby"],
+    "Group 2": ["Basketball", "Football", "Tennis", "Volleyball"],
+    "Group 3": ["Team", "Individual", "Racket Sport", "Ball Game"],
+    "Group 4": ["Competition", "Physicality", "Strategy", "Social Interaction"]
+}
+
+{
+    "Group 1": ["Scientific Method", "Experimentation", "Observation", "Theory"],
+    "Group 2": ["Hypothesis", "Prediction", "Conclusion", "Peer Review"],
+    "Group 3": ["Data Analysis", "Research Question", "Study Design", "Results"],
+    "Group 4": ["Evidence-Based", "Empirical", "Theoretical", "Interdisciplinary"]
+}
+
+{
+    "Group 1": ["Cuisine", "Dish", "Recipe", "Food Culture"],
+    "Group 2": ["Italian", "Mexican", "Chinese", "Indian"],
+    "Group 3": ["Ingredient", "Cooking Technique", "Presentation", "Flavor Profile"],
+    "Group 4": ["Traditional", "Modern", "Regional", "Global"]
+}
+
+{
+    "Group 1": ["Literary Device", "Figurative Language", "Narrative Technique", "Poetic Style"],
+    "Group 2": ["Metaphor", "Simile", "Personification", "Alliteration"],
+    "Group 3": ["Symbolism", "Imagery", "Tone", "Pacing"],
+    "Group 4": ["Authorial Intent", "Reader Response", "Contextualization", "Interpretation"]
+}
+
+{
+    "Group 1": ["Geological Formation", "Rock Type", "Mineral Deposit", "Landform"],
+    "Group 2": ["Mountain Range", "Canyon System", "Plateau Region", "Island Arc"],
+    "Group 3": ["Tectonic", "Volcanic", "Erosional", "Depositional"],
+    "Group 4": ["Earth's Surface", "Geological Processes", "Rock Cycle", "Landform Evolution"]
+}
+
+{
+    "Group 1": ["Psychological Trait", "Personality Quirk", "Behavioral Pattern", "Emotional Response"],
+    "Group 2": ["Introvert", "Extrovert", "Narcissist", "Empathizer"],
+    "Group 3": ["Cognitive Style", "Motivation", "Attachment Theory", "Social Learning"],
+    "Group 4": ["Individual Differences", "Group Dynamics", "Cultural Influence", "Developmental Stage"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Musical Composition", "Instrumental Piece", "Vocal Work", "Orchestral Piece"],
+    "Group 2": ["Classical", "Jazz", "Pop", "Rock"],
+    "Group 3": ["Tempo", "Dynamics", "Harmony", "Form"],
+    "Group 4": ["Authorship", "Publication", "Performance", "Critical Reception"]
+}
+
+{
+    "Group 1": ["Scientific Instrument", "Equipment", "Tool", "Device"],
+    "Group 2": ["Microscope", "Telescope", "Spectrometer", "Thermometer"],
+    "Group 3": ["Measurement", "Data Collection", "Experimentation", "Analysis"],
+    "Group 4": ["Physics", "Chemistry", "Biology", "Engineering"]
+}
+
+{
+    "Group 1": ["Historical Event", "Anniversary", "Date", "Occasion"],
+    "Group 2": ["Revolution", "War", "Disaster", "Election"],
+    "Group 3": ["Location", "Time Period", "Participants", "Consequences"],
+    "Group 4": ["Contextualization", "Interpretation", "Memory", "Legacy"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Literary Style", "Narrative Technique", "Poetic Form", "Dramatic Structure"],
+    "Group 2": ["Realism", "Romanticism", "Modernism", "Postmodernism"],
+    "Group 3": ["Authorial Voice", "Tone", "Imagery", "Symbolism"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Theoretical Frameworks"]
+}
+
+{
+    "Group 1": ["Physical Phenomenon", "Scientific Principle", "Chemical Reaction", "Biological Process"],
+    "Group 2": ["Thermodynamics", "Electromagnetism", "Gravity", "Quantum Mechanics"],
+    "Group 3": ["Energy Transfer", "Mass Movement", "Matter Interaction", "Space-Time Continuum"],
+    "Group 4": ["Theoretical Frameworks", "Experimental Evidence", "Mathematical Formulation", "Philosophical Significance"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Scientific Instrument", "Equipment", "Tool", "Device"],
+    "Group 2": ["Microscope", "Telescope", "Spectrometer", "Thermometer"],
+    "Group 3": ["Measurement", "Data Collection", "Experimentation", "Analysis"],
+    "Group 4": ["Physics", "Chemistry", "Biology", "Engineering"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Group 1": ["Historical Figure", "Leader", "Reformer", "Activist"],
+    "Group 2": ["Abraham Lincoln", "Martin Luther King Jr.", "Charles Darwin", "Marie Curie"],
+    "Group 3": ["Politics", "Science", "Philosophy", "Social Justice"],
+    "Group 4": ["Legacy", "Impact", "Influence", "Inspiration"]
+}
+
+{
+    "Group 1": ["Art Movement", "Style", "Period", "Subgenre"],
+    "Group 2": ["Impressionism", "Expressionism", "Surrealism", "Abstract Expressionism"],
+    "Group 3": ["Artist", "Technique", "Subject Matter", "Medium"],
+    "Group 4": ["Historical Context", "Cultural Significance", "Artistic Innovations", "Contemporary Relevance"]
+}
+
+{
+    "Group 1": ["Philosophical Concept", "Ethical Principle", "Moral Value", "Value System"],
+    "Group 2": ["Utilitarianism", "Kantianism", "Existentialism", "Determinism"],
+    "Group 3": ["Human Nature", "Free Will", "Morality", "Justice"],
+    "Group 4": ["Theoretical Frameworks", "Applied Ethics", "Normative Theories", "Descriptive Accounts"]
+}
+
+{
+    "Group 1": ["Economic Indicator", "GDP Growth Rate", "Inflation Rate", "Unemployment Rate"],
+    "Group 2": ["Macroeconomics", "Microeconomics", "International Trade", "Monetary Policy"],
+    "Group 3": ["Country", "Region", "Industry", "Sector"],
+    "Group 4": ["Data Analysis", "Policy-Making", "Globalization", "Economic Development"]
+}
+
+{
+    "Group 1": ["Theological Concept", "Scriptural Theme", "Dogmatic Definition", "Catholic Doctrine"],
+    "Group 2": ["Trinity", "Incarnation", "Transubstantiation", "Purgatory"],
+    "Group 3": ["Church History", "Sacraments", "Veneration", "Liturgy"],
+    "Group 4": ["Tradition", "Infallibility", "Authority", "Mysticism"]
+}
+
+{
+    "Group 1": ["Scientific Theory", "Hypothesis", "Prediction", "Law"],
+    "Group 2": ["Gravity", "Electromagnetism", "Relativity", "Quantum Mechanics"],
+    "Group 3": ["Experimental Evidence", "Mathematical Formulation", "Physical Interpretation", "Philosophical Significance"],
+    "Group 4": ["Developmental History", "Key Players", "Major Discoveries", "Impact on Science"]
+}
+
+{
+    "Group 1": ["Biological Process", "Physiological Response", "Hormonal Regulation", "Neurotransmission"],
+    "Group 2": ["Cellular Respiration", "Photosynthesis", "DNA Replication", "Mitosis"],
+    "Group 3": ["Molecular Biology", "Genetics", "Evolutionary Theory", "Developmental Biology"],
+    "Group 4": ["Homeostasis", "Adaptation", "Inheritance", "Disease"]
+}
+
+{
+    "Group 1": ["Musical Performance", "Instrumental Solo", "Vocal Performance", "Orchestral Piece"],
+    "Group 2": ["Soloist", "Ensemble", "Conductor", "Pianist"],
+    "Group 3": ["Tempo", "Dynamics", "Articulation", "Expression"],
+    "Group 4": ["Practice", "Rehearsal", "Performance", "Recording"]
+}
+
+{
+    "Group 1": ["Environmental Issue", "Conservation Effort", "Sustainable Practice", "Eco-Friendly Policy"],
+    "Group 2": ["Climate Change", "Deforestation", "Pollution", "Waste Management"],
+    "Group 3": ["Human Impact", "Ecological Balance", "Resource Depletion", "Biodiversity Loss"],
+    "Group 4": ["Government Policies", "Individual Actions", "Community Engagement", "Technological Innovations"]
+}
+
+{
+    "Group 1": ["Computer Science Concept", "Data Structure", "Algorithm", "Programming Language"],
+    "Group 2": ["Array", "List", "Queue", "Stack"],
+    "Group 3": ["Memory Management", "Input/Output Operations", "File Systems", "Database Management"],
+    "Group 4": ["Software Engineering", "Computer Networks", "Human-Computer Interaction", "Artificial Intelligence"]
+}
+
+{
+    "Category Name": ["Pineapple", "Strawberry", "Raspberry", "Blueberry"],
+    "Category Name": ["Summer", "Autumn", "Winter", "Spring"],
+    "Category Name": ["England", "France", "Germany", "Italy"],
+    "Category Name": ["Red", "Purple", "Green", "Yellow"]
+}
+
+{
+  "Category Name": ["Guitar", "Violin", "Piano", "Drums"],
+  "Category Name": ["Classical", "Jazz", "Rock", "Pop"],
+  "Category Name": ["Spain", "Italy", "France", "Germany"],
+  "Category Name": ["Acoustic", "Electric", "Bass", "Harmonica"]
+}
+
+{
+  "Category Name": ["Cloud", "Rain", "Sunshine", "Snow"],
+  "Category Name": ["September", "June", "March", "December"],
+  "Category Name": ["New York", "London", "Paris", "Tokyo"],
+  "Category Name": ["Summer", "Autumn", "Winter", "Spring"]
+}
+
+{
+  "Category Name": ["Bicycle", "Car", "Motorcycle", "Scooter"],
+  "Category Name": ["Electric", "Gasoline", "Hybrid", "Manual"],
+  "Category Name": ["USA", "Europe", "Australia", "Asia"],
+  "Category Name": ["Small", "Medium", "Large", "Extra Large"]
+}
+
+{
+  "Category Name": ["Crayon", "Pencil", "Marker", "Chalk"],
+  "Category Name": ["Artistic", "Scientific", "Mathematical", "Educational"],
+  "Category Name": ["Primary", "Secondary", "Tertiary", "Post-Secondary"],
+  "Category Name": ["Rounded", "Flat", "Pointed", "Smooth"]
+}
+
+{
+  "Category Name": ["Football", "Basketball", "Baseball", "Soccer"],
+  "Category Name": ["Team Sport", "Individual Sport", "Olympic Sport", "Professional Sport"],
+  "Category Name": ["USA", "Canada", "Mexico", "UK"],
+  "Category Name": ["Summer", "Winter", "Spring", "Fall"]
+}
+
+{
+  "Category Name": ["Chocolate", "Coffee", "Tea", "Sugar"],
+  "Category Name": ["Beverage", "Food", "Sauce", "Spice"],
+  "Category Name": ["Hot", "Cold", "Sweet", "Bitter"],
+  "Category Name": ["Europe", "Asia", "Africa", "Americas"]
+}
+
+{
+  "Category Name": ["Library", "Bookstore", "University", "Museum"],
+  "Category Name": ["Academic", "Public", "Private", "Government"],
+  "Category Name": ["USA", "Canada", "UK", "Australia"],
+  "Category Name": ["Large", "Medium", "Small", "Mini"]
+}
+
+{
+  "Category Name": ["Beach", "Mountain", "Forest", "City"],
+  "Category Name": ["Relaxation", "Adventure", "Scenic View", "Cultural Significance"],
+  "Category Name": ["USA", "Europe", "Canada", "South America"],
+  "Category Name": ["Summer", "Winter", "Spring", "Fall"]
+}
+
+{
+  "Category Name": ["Camera", "Phone", "Scanner", "Printer"],
+  "Category Name": ["Digital", "Analog", "Inkjet", "Laser"],
+  "Category Name": ["USA", "China", "Japan", "Korea"],
+  "Category Name": ["Small", "Medium", "Large", "Extra Large"]
+}
+
+{
+  "Category Name": ["Fruit", "Vegetable", "Meat", "Dairy"],
+  "Category Name": ["Fresh", "Canned", "Frozen", "Packaged"],
+  "Category Name": ["USA", "Canada", "Mexico", "UK"],
+  "Category Name": ["American", "European", "Asian", "African"]
+}
+
+{
+  "Category Name": ["Book", "Article", "Research Paper", "Thesis"],
+  "Category Name": ["Academic", "Professional", "Popular", "Historical"],
+  "Category Name": ["USA", "Canada", "UK", "Australia"],
+  "Category Name": ["Short", "Medium", "Long", "Extensive"]
+}
+
+{
+  "Category Name": ["City", "Town", "Village", "Countryside"],
+  "Category Name": ["Urban", "Rural", "Suburban", "Exurban"],
+  "Category Name": ["USA", "Europe", "Canada", "Australia"],
+  "Category Name": ["Large", "Medium", "Small", "Tiny"]
+}
+
+{
+  "Category Name": ["Game Console", "Video Game", "Board Game", "Puzzle"],
+  "Category Name": ["Electronic", "Physical", "Digital", "Outdoor"],
+  "Category Name": ["USA", "Europe", "Japan", "China"],
+  "Category Name": ["New", "Used", "Retro", "Classic"]
+}
+
+{
+  "Category Name": ["Cloud", "Rain", "Sunshine", "Snow"],
+  "Category Name": ["September", "June", "March", "December"],
+  "Category Name": ["New York", "London", "Paris", "Tokyo"],
+  "Category Name": ["Summer", "Autumn", "Winter", "Spring"]
+}
+
+{
+  "Category Name": ["Piano", "Guitar", "Violin", "Drums"],
+  "Category Name": ["Classical", "Jazz", "Rock", "Pop"],
+  "Category Name": ["Spain", "Italy", "France", "Germany"],
+  "Category Name": ["Acoustic", "Electric", "Bass", "Harmonica"]
+}
+
+{
+  "Category Name": ["Mountain", "Beach", "Forest", "City"],
+  "Category Name": ["Adventure", "Scenic View", "Relaxation", "Cultural Significance"],
+  "Category Name": ["USA", "Europe", "Canada", "South America"],
+  "Category Name": ["Summer", "Winter", "Spring", "Fall"]
+}
+
+{
+  "Category Name": ["Bicycle", "Car", "Motorcycle", "Scooter"],
+  "Category Name": ["Electric", "Gasoline", "Hybrid", "Manual"],
+  "Category Name": ["USA", "Europe", "Australia", "Asia"],
+  "Category Name": ["Small", "Medium", "Large", "Extra Large"]
+}
+
+{
+  "Category Name": ["Crayon", "Pencil", "Marker", "Chalk"],
+  "Category Name": ["Artistic", "Scientific", "Mathematical", "Educational"],
+  "Category Name": ["Primary", "Secondary", "Tertiary", "Post-Secondary"],
+  "Category Name": ["Rounded", "Flat", "Pointed", "Smooth"]
+}
+
+{
+  "Category Name": ["Football", "Basketball", "Baseball", "Soccer"],
+  "Category Name": ["Team Sport", "Individual Sport", "Olympic Sport", "Professional Sport"],
+  "Category Name": ["USA", "Canada", "Mexico", "UK"],
+  "Category Name": ["Summer", "Winter", "Spring", "Fall"]
+}
+
+{
+  "Category Name": ["Chocolate", "Coffee", "Tea", "Sugar"],
+  "Category Name": ["Beverage", "Food", "Sauce", "Spice"],
+  "Category Name": ["Hot", "Cold", "Sweet", "Bitter"],
+  "Category Name": ["Europe", "Asia", "Africa", "Americas"]
+}
+
+{
+  "Category Name": ["Library", "Bookstore", "University", "Museum"],
+  "Category Name": ["Academic", "Public", "Private", "Government"],
+  "Category Name": ["USA", "Canada", "UK", "Australia"],
+  "Category Name": ["Large", "Medium", "Small", "Mini"]
+}
+
+{
+  "Category Name": ["Camera", "Phone", "Scanner", "Printer"],
+  "Category Name": ["Digital", "Analog", "Inkjet", "Laser"],
+  "Category Name": ["USA", "China", "Japan", "Korea"],
+  "Category Name": ["Small", "Medium", "Large", "Extra Large"]
+}
+
+{
+  "Category Name": ["Fruit", "Vegetable", "Meat", "Dairy"],
+  "Category Name": ["Fresh", "Canned", "Frozen", "Packaged"],
+  "Category Name": ["USA", "Canada", "Mexico", "UK"],
+  "Category Name": ["American", "European", "Asian", "African"]
+}
+
+{
+  "Category Name": ["Book", "Article", "Research Paper", "Thesis"],
+  "Category Name": ["Academic", "Professional", "Popular", "Historical"],
+  "Category Name": ["USA", "Canada", "UK", "Australia"],
+  "Category Name": ["Short", "Medium", "Long", "Extensive"]
+}
+
+{
+  "Category Name": ["City", "Town", "Village", "Countryside"],
+  "Category Name": ["Urban", "Rural", "Suburban", "Exurban"],
+  "Category Name": ["USA", "Europe", "Canada", "Australia"],
+  "Category Name": ["Large", "Medium", "Small", "Tiny"]
+}
+
+{
+  "Category Name": ["Game Console", "Video Game", "Board Game", "Puzzle"],
+  "Category Name": ["Electronic", "Physical", "Digital", "Outdoor"],
+  "Category Name": ["USA", "Europe", "Japan", "China"],
+  "Category Name": ["New", "Used", "Retro", "Classic"]
+}
