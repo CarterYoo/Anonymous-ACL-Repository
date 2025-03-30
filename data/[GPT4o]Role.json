@@ -1,0 +1,92 @@
+[
+    {
+        "Hidden Palindromes": ["Level", "Rotor", "Civic", "Racecar"],
+        "Abstract Emotions": ["Fear", "Hope", "Desire", "Guilt"],
+        "Phonetically Similar Words": ["Knight", "Night", "Write", "Rite"],
+        "Words with Silent Letters": ["Island", "Debt", "Knight", "Honest"]
+    },
+    {
+        "Anagrams": ["Listen", "Silent", "Enlist", "Tinsel"],
+        "Homonyms": ["Lead", "Tear", "Bow", "Wind"],
+        "Hidden Colors": ["Scarlet (Red)", "Panther (Ant)", "Dove (Do)", "Lime (Me)"],
+        "Abstract Concepts": ["Truth", "Justice", "Freedom", "Equality"]
+    },
+    {
+        "Compound Words": ["Butterfly", "Sunflower", "Firefly", "Rainbow"],
+        "Heteronyms": ["Bass", "Bow", "Tear", "Wind"],
+        "Words with Double Meanings": ["Spring", "Fall", "Date", "Match"],
+        "Hidden Animals": ["Tiger (Rig)", "Horse (Rose)", "Cat (Act)", "Dog (God)"]
+    },
+    {
+        "Months in Sequence": ["January", "February", "March", "April"],
+        "Words with Silent Letters": ["Knife", "Wrist", "Castle", "Salmon"],
+        "Abstract Concepts": ["Love", "Hate", "Joy", "Sorrow"],
+        "Hidden Patterns": ["Stop (Top)", "Part (Art)", "Trap (Rap)", "Star (Tar)"]
+    },
+    {
+        "Homophones": ["Flower", "Flour", "Meet", "Meat"],
+        "Hidden Numbers": ["One (None)", "Two (Tow)", "Three (There)", "Four (Fur)"],
+        "Words with Multiple Meanings": ["Light", "Rock", "Wave", "Point"],
+        "Hidden Words in Reverse": ["Desserts (Stressed)", "Evil (Live)", "Drawer (Reward)", "Diaper (Repaid)"]
+    },
+    {
+        "Hidden Directions": ["North (Horn)", "East (Seat)", "South (Shout)", "West (Stew)"],
+        "Abstract Virtues": ["Patience", "Kindness", "Courage", "Wisdom"],
+        "Words with Silent Letters": ["Psychology", "Debt", "Honest", "Island"],
+        "Phonetically Similar Words": ["Right", "Write", "Rite", "Wright"]
+    },
+    {
+        "Hidden Body Parts": ["Arm (Ram)", "Leg (Gel)", "Eye (Ye)", "Ear (Are)"],
+        "Abstract States of Being": ["Alive", "Asleep", "Awake", "Aware"],
+        "Anagrams": ["Earth", "Heart", "Hater", "Rathe"],
+        "Hidden Elements": ["Gold (Old)", "Silver (Liver)", "Iron (Ion)", "Carbon (Baron)"]
+    },
+    {
+        "Compound Words": ["Moonlight", "Starfish", "Firework", "Snowman"],
+        "Words with Silent Letters": ["Subtle", "Climb", "Thumb", "Doubt"],
+        "Abstract Feelings": ["Pride", "Shame", "Envy", "Gratitude"],
+        "Hidden Shapes": ["Circle (Ice)", "Square (Quar)", "Triangle (Angle)", "Rectangle (Angle)"]
+    },
+    {
+        "Homonyms": ["Bass", "Bow", "Tear", "Wind"],
+        "Abstract Concepts": ["Faith", "Hope", "Charity", "Despair"],
+        "Hidden Food Items": ["Bread (Read)", "Apple (Lap)", "Cheese (See)", "Grape (Gap)"],
+        "Words with Double Meanings": ["Bank", "Charge", "Ball", "Date"]
+    },
+    {
+        "Hidden Musical Instruments": ["Piano (Pain)", "Guitar (Gut)", "Drum (Rum)", "Flute (Flu)"],
+        "Abstract Ideas": ["Time", "Space", "Energy", "Matter"],
+        "Words with Silent Letters": ["Calm", "Half", "Yolk", "Could"],
+        "Hidden Seasons": ["Spring (Ring)", "Summer (Murmur)", "Fall (All)", "Winter (Inter)"]
+    },
+    {
+        "Hidden Zodiac Signs": ["Aries (Rise)", "Taurus (Us)", "Gemini (Mini)", "Cancer (Can)"],
+        "Abstract Human Traits": ["Ambition", "Empathy", "Resilience", "Humility"],
+        "Homophones": ["Sea", "See", "Son", "Sun"],
+        "Anagrams": ["Stone", "Notes", "Tones", "Onset"]
+    },
+    {
+        "Hidden Countries": ["China (Chin)", "France (Ace)", "Spain (Pain)", "Italy (Lay)"],
+        "Abstract Philosophical Concepts": ["Existence", "Reality", "Perception", "Consciousness"],
+        "Words with Silent Letters": ["Castle", "Wrist", "Knock", "Sword"],
+        "Phonetically Similar Words": ["Pear", "Pair", "Pare", "Peer"]
+    },
+    {
+        "Hidden Planets": ["Earth (Hear)", "Mars (Arm)", "Venus (Sue)", "Jupiter (Pure)"],
+        "Abstract Scientific Concepts": ["Gravity", "Evolution", "Entropy", "Relativity"],
+        "Words with Double Meanings": ["Bolt", "Current", "Key", "Charge"],
+        "Hidden Time-Related Words": ["Second (Con)", "Minute (Mute)", "Hour (Our)", "Day (Yad)"]
+    },
+    {
+        "Hidden Flowers": ["Rose (Sore)", "Lily (Ill)", "Daisy (Sad)", "Tulip (Lip)"],
+        "Abstract Artistic Concepts": ["Beauty", "Expression", "Form", "Inspiration"],
+        "Homonyms": ["Row", "Bow", "Lead", "Tear"],
+        "Words with Silent Letters": ["Knob", "Wreath", "Aisle", "Fasten"]
+    },
+    {
+        "Hidden Trees": ["Oak (Oar)", "Pine (Pen)", "Maple (Pal)", "Birch (Rich)"],
+        "Abstract Environmental Concepts": ["Sustainability", "Biodiversity", "Conservation", "Ecosystem"],
+        "Phonetically Similar Words": ["Plain", "Plane", "Reign", "Rain"],
+        "Anagrams": ["Silent", "Listen", "Tinsel", "Enlist"]
+    }
+]
