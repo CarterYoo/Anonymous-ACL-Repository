@@ -1,0 +1,158 @@
+[
+    {
+        "Fruits": ["apple", "banana", "orange", "grape"],
+        "Flowers": ["rose", "tulip", "daisy", "orchid"],
+        "Months": ["january", "march", "november", "december"],
+        "Colors": ["red", "green", "blue", "yellow"]
+    },
+    {
+        "Sports": ["soccer", "basketball", "tennis", "golf"],
+        "Musical Instruments": ["piano", "violin", "drums", "trumpet"],
+        "Animals": ["dog", "cat", "elephant", "lion"],
+        "Furniture": ["chair", "table", "bed", "sofa"]
+    },
+    {
+        "Countries": ["italy", "japan", "germany", "france"],
+        "Shapes": ["circle", "square", "triangle", "oval"],
+        "Weather Conditions": ["rain", "snow", "cloud", "wind"],
+        "Vegetables": ["carrot", "cucumber", "potato", "lettuce"]
+    },
+    {
+        "Clothing": ["shirt", "pants", "hat", "shoes"],
+        "Seasons": ["spring", "summer", "fall", "winter"],
+        "Plants": ["tree", "bush", "grass", "flower"],
+        "Foods": ["pizza", "sandwich", "soup", "salad"]
+    },
+    {
+        "Tools": ["hammer", "wrench", "screwdriver", "pliers"],
+        "Sports Equipment": ["bat", "ball", "racket", "skateboard"],
+        "Transportation": ["car", "bike", "train", "plane"],
+        "Natural Elements": ["water", "fire", "earth", "air"]
+    },
+    {
+        "Games": ["chess", "checkers", "cards", "scrabble"],
+        "Languages": ["english", "spanish", "french", "german"],
+        "Mathematics": ["circle", "triangle", "square", "pentagon"],
+        "Plants": ["pine", "oak", "maple", "birch"]
+    },
+    {
+        "Food Groups": ["meat", "vegetable", "fruit", "dairy"],
+        "Furniture Types": ["desk", "chair", "bed", "table"],
+        "Clothing Items": ["shirt", "pants", "hat", "shoes"],
+        "Colors": ["red", "green", "blue", "yellow"]
+    },
+    {
+        "Countries": ["america", "france", "spain", "japan"],
+        "Sports": ["soccer", "basketball", "tennis", "golf"],
+        "Shapes": ["circle", "triangle", "square", "oval"],
+        "Weather Conditions": ["rain", "sunshine", "snow", "wind"]
+    },
+    {
+        "Animals": ["dog", "cat", "elephant", "lion"],
+        "Furniture": ["chair", "table", "bed", "sofa"],
+        "Plants": ["tree", "bush", "grass", "flower"],
+        "Vegetables": ["carrot", "cucumber", "potato", "lettuce"]
+    },
+    {
+        "Clothing": ["shirt", "pants", "hat", "shoes"],
+        "Seasons": ["spring", "summer", "fall", "winter"],
+        "Plants": ["tree", "bush", "grass", "flower"],
+        "Foods": ["pizza", "sandwich", "soup", "salad"]
+    },
+    {
+        "Tools": ["hammer", "wrench", "screwdriver", "pliers"],
+        "Sports Equipment": ["bat", "ball", "racket", "skateboard"],
+        "Transportation": ["car", "bike", "train", "plane"],
+        "Natural Elements": ["water", "fire", "earth", "air"]
+    },
+    {
+        "Games": ["chess", "checkers", "cards", "scrabble"],
+        "Languages": ["english", "spanish", "french", "german"],
+        "Mathematics": ["circle", "triangle", "square", "pentagon"],
+        "Plants": ["pine", "oak", "maple", "birch"]
+    },
+    {
+        "Food Groups": ["meat", "vegetable", "fruit", "dairy"],
+        "Furniture Types": ["desk", "chair", "bed", "table"],
+        "Clothing Items": ["shirt", "pants", "hat", "shoes"],
+        "Colors": ["red", "green", "blue", "yellow"]
+    },
+    {
+        "Countries": ["america", "france", "spain", "japan"],
+        "Sports": ["soccer", "basketball", "tennis", "golf"],
+        "Shapes": ["circle", "triangle", "square", "oval"],
+        "Weather Conditions": ["rain", "sunshine", "snow", "wind"]
+    },
+    {
+        "Animals": ["dog", "cat", "elephant", "lion"],
+        "Furniture": ["chair", "table", "bed", "sofa"],
+        "Plants": ["tree", "bush", "grass", "flower"],
+        "Vegetables": ["carrot", "cucumber", "potato", "lettuce"]
+    },
+    {
+        "Clothing": ["shirt", "pants", "hat", "shoes"],
+        "Seasons": ["spring", "summer", "fall", "winter"],
+        "Plants": ["tree", "bush", "grass", "flower"],
+        "Foods": ["pizza", "sandwich", "soup", "salad"]
+    },
+    {
+        "Tools": ["hammer", "wrench", "screwdriver", "pliers"],
+        "Sports Equipment": ["bat", "ball", "racket", "skateboard"],
+        "Transportation": ["car", "bike", "train", "plane"],
+        "Natural Elements": ["water", "fire", "earth", "air"]
+    },
+    {
+        "Games": ["chess", "checkers", "cards", "scrabble"],
+        "Languages": ["english", "spanish", "french", "german"],
+        "Mathematics": ["circle", "triangle", "square", "pentagon"],
+        "Plants": ["pine", "oak", "maple", "birch"]
+    },
+    {
+        "Food Groups": ["meat", "vegetable", "fruit", "dairy"],
+        "Furniture Types": ["desk", "chair", "bed", "table"],
+        "Clothing Items": ["shirt", "pants", "hat", "shoes"],
+        "Colors": ["red", "green", "blue", "yellow"]
+    },
+    {
+        "Countries": ["america", "france", "spain", "japan"],
+        "Sports": ["soccer", "basketball", "tennis", "golf"],
+        "Shapes": ["circle", "triangle", "square", "oval"],
+        "Weather Conditions": ["rain", "sunshine", "snow", "wind"]
+    },
+    {
+        "Animals": ["dog", "cat", "elephant", "lion"],
+        "Furniture": ["chair", "table", "bed", "sofa"],
+        "Plants": ["tree", "bush", "grass", "flower"],
+        "Vegetables": ["carrot", "cucumber", "potato", "lettuce"]
+    },
+    {
+        "Clothing": ["shirt", "pants", "hat", "shoes"],
+        "Seasons": ["spring", "summer", "fall", "winter"],
+        "Plants": ["tree", "bush", "grass", "flower"],
+        "Foods": ["pizza", "sandwich", "soup", "salad"]
+    },
+    {
+        "Tools": ["hammer", "wrench", "screwdriver", "pliers"],
+        "Sports Equipment": ["bat", "ball", "racket", "skateboard"],
+        "Transportation": ["car", "bike", "train", "plane"],
+        "Natural Elements": ["water", "fire", "earth", "air"]
+    },
+    {
+        "Games": ["chess", "checkers", "cards", "scrabble"],
+        "Languages": ["english", "spanish", "french", "german"],
+        "Mathematics": ["circle", "triangle", "square", "pentagon"],
+        "Plants": ["pine", "oak", "maple", "birch"]
+    },
+    {
+        "Food Groups": ["meat", "vegetable", "fruit", "dairy"],
+        "Furniture Types": ["desk", "chair", "bed", "table"],
+        "Clothing Items": ["shirt", "pants", "hat", "shoes"],
+        "Colors": ["red", "green", "blue", "yellow"]
+    },
+    {
+        "Countries": ["america", "france", "spain", "japan"],
+        "Sports": ["soccer", "basketball", "tennis", "golf"],
+        "Shapes": ["circle", "triangle", "square", "oval"],
+        "Weather Conditions": ["rain", "sunshine", "snow", "wind"]
+    }
+]
