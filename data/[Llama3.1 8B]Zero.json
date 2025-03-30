@@ -1,0 +1,182 @@
+{
+    "Puzzle 1": {
+        "Category Name 1": ["Czech", "Polish", "Hungarian", "Slovak"],
+        "Category Name 2": ["Bulgarian", "Greek", "Romanian", "Serbian"],
+        "Category Name 3": ["Turkish", "Armenian", "Azeri", "Georgian"],
+        "Category Name 4": ["Ukrainian", "Lithuanian", "Latvian", "Estonian"]
+    },
+    "Puzzle 2": {
+        "Category Name 1": ["Sunset", "Dusk", "Twilight", "Nightfall"],
+        "Category Name 2": ["Moonrise", "Morn", "Noon", "Evening"],
+        "Category Name 3": ["Spring", "Summer", "Autumn", "Winter"],
+        "Category Name 4": ["Forenoon", "Afternoon", "Early morning", "Late evening"]
+    },
+    "Puzzle 3": {
+        "Category Name 1": ["Firefox", "Chrome", "Safari", "Edge"],
+        "Category Name 2": ["Internet Explorer", "Opera", "Brave", "Tor"],
+        "Category Name 3": ["Google Chrome OS", "Windows Internet Explorer", "MacOS Safari", "Linux Firefox"],
+        "Category Name 4": ["Browser Engine", "Rendering Engine", "Layout Engine", "JavaScript Engine"]
+    },
+    "Puzzle 4": {
+        "Category Name 1": ["Mercury", "Venus", "Mars", "Jupiter"],
+        "Category Name 2": ["Saturn", "Uranus", "Neptune", "Earth"],
+        "Category Name 3": ["Solar System Planet", "Dwarf Planet", "Moons of Saturn", "Rings of Jupiter"],
+        "Category Name 4": ["Planetary Orbital Zone", "Gas Giant", "Ice Giant", "Terrestrial Planet"]
+    },
+    "Puzzle 5": {
+        "Category Name 1": ["Java", "C++", "Python", "Ruby"],
+        "Category Name 2": ["Swift", "Kotlin", "Go", ".NET"],
+        "Category Name 3": ["Programming Language Paradigm", "Multi-Paradigm Programming Language", "Scripting Language", "General-Purpose Programming Language"],
+        "Category Name 4": ["Dynamic Typing", "Static Typing", "Object-Oriented Programming", "Functional Programming"]
+    },
+    "Puzzle 6": {
+        "Category Name 1": ["Pentagon", "Kremlin", "White House", "Buckingham Palace"],
+        "Category Name 2": ["The Elysée", "Presidential Palace", "Chateau de Fontainebleau", "Garden of Versailles"],
+        "Category Name 3": ["Seat of Government", "Residence of Head of State", "Military Base", "Place of Diplomacy"],
+        "Category Name 4": ["Washington D.C.", "Moscow", "London", "Paris"]
+    },
+    "Puzzle 7": {
+        "Category Name 1": ["Tennessee Waltz", "Fly Me to the Moon", "Moon River", "Unchained Melody"],
+        "Category Name 2": ["My Way", "Strangers in the Night", "Can't Help Falling in Love", "It Had to Be You"],
+        "Category Name 3": ["American Song Standards", "Jazz Ballads", "French Cafe Music", "British Invasion Songs"],
+        "Category Name 4": ["George Gershwin", "Frank Sinatra", "Elvis Presley", "Dean Martin"]
+    },
+    "Puzzle 8": {
+        "Category Name 1": ["Titanic", "The Revenant", "Gravity", "Interstellar"],
+        "Category Name 2": ["The Martian", "Arrival", "Ex Machina", "Her"],
+        "Category Name 3": ["Sci-Fi Film Franchise", "Space Movie Series", "Time-Traveling Films", "Action-Packed Movies"],
+        "Category Name 4": ["James Cameron", "Christopher Nolan", "Denis Villeneuve", "Alfonso Cuaron"]
+    },
+    "Puzzle 9": {
+        "Category Name 1": ["Beyoncé", "Taylor Swift", "Lady Gaga", "Rihanna"],
+        "Category Name 2": ["Katy Perry", "Ariana Grande", "Justin Bieber", "The Weeknd"],
+        "Category Name 3": ["Pop Music Icon", "Chart-Topping Artists", "Grammy Award Winners", "Music Festival Headliners"],
+        "Category Name 4": ["Michael Jackson", "Madonna", "Elton John", "Whitney Houston"]
+    },
+    "Puzzle 10": {
+        "Category Name 1": ["Khan Academy", "Coursera", "edX", "Udemy"],
+        "Category Name 2": ["Codecademy", "FreeCodeCamp", "OpenClassrooms", "FutureLearn"],
+        "Category Name 3": ["Online Learning Platform", "E-learning System", "MOOC Provider", "Education Resource Site"],
+        "Category Name 4": ["MIT OpenCourseWare", "Stanford Online", "Harvard edX", "Google CS First"]
+    },
+    "Puzzle 11": {
+        "Category Name 1": ["New York Times", "The Guardian", "Los Angeles Times", "Washington Post"],
+        "Category Name 2": ["Financial Times", "Wall Street Journal", "Bloomberg News", "Forbes"],
+        "Category Name 3": ["Major Newspaper", "International News Agency", "Business Publication", "Investment Magazine"],
+        "Category Name 4": ["Newspaper Editorials", "News Magazines", "Online News Outlets", "Business News Websites"]
+    },
+    "Puzzle 12": {
+        "Category Name 1": ["Instagram", "Facebook", "Twitter", "TikTok"],
+        "Category Name 2": ["Reddit", "Pinterest", "LinkedIn", "Snapchat"],
+        "Category Name 3": ["Social Media Platform", "Microblogging Site", "Photo-Sharing App", "Video-Sharing Website"],
+        "Category Name 4": ["Social Network Algorithm", "News Feed", "Hashtag", "Emoji"]
+    },
+    "Puzzle 13": {
+        "Category Name 1": ["Google Drive", "OneDrive", "Dropbox", "Box"],
+        "Category Name 2": ["Amazon S3", "Microsoft Azure Blob Storage", "AWS S3", "IBM Cloud Object Storage"],
+        "Category Name 3": ["Cloud Storage Service", "File-Sharing Platform", "Data Backup Solution", "Virtual File System"],
+        "Category Name 4": ["Cloud Computing Provider", "Big Data Analytics", "Content Delivery Network", "Storage as a Service"]
+    },
+    "Puzzle 14": {
+        "Category Name 1": ["Bartleby", "FindLaw", "Justia", "Westlaw"],
+        "Category Name 2": ["LexisNexis", "CCH", "Thomson Reuters", "HeinOnline"],
+        "Category Name 3": ["Legal Database Service", "Case Law Research Platform", "Patent Search Engine", "Statute Finder Tool"],
+        "Category Name 4": ["Law Firm Software", "Paralegal Resources", "Litigation Support System", "Court Docket Search"]
+    },
+    "Puzzle 15": {
+        "Category Name 1": ["Walmart", "Costco", "Target", "Kohl's"],
+        "Category Name 2": ["Sears", "JCPenney", "Macy's", "Nordstrom"],
+        "Category Name 3": ["Retail Industry Leader", "Department Store Chain", "Discount Store Operator", "Online Retailer"],
+        "Category Name 4": ["Business Model Innovation", "Supply Chain Optimization", "Logistics Management System", "E-commerce Platform"]
+    },
+    "Puzzle 16": {
+        "Category Name 1": ["Tesla", "Rivian", "Lucid Motors", "NIO"],
+        "Category Name 2": ["Ford Mustang Mach-E", "Chevrolet Bolt EUV", "Hyundai Ioniq 5", "Toyota bZ4X"],
+        "Category Name 3": ["Electric Vehicle Maker", "Sustainable Transportation Provider", "Autonomous Driving Technology", "Electrification of Vehicles"],
+        "Category Name 4": ["Battery Electric Vehicle", "Plug-in Hybrid Electric Vehicle", "Fuel Cell Electric Vehicle", "Hybrid Electric Vehicle"]
+    },
+    "Puzzle 17": {
+        "Category Name 1": ["Amazon Alexa", "Google Assistant", "Apple Siri", "Microsoft Cortana"],
+        "Category Name 2": ["Samsung Bixby", "Huawei Celia", "Facebook Portal", "IBM Watson Assistant"],
+        "Category Name 3": ["Virtual Assistant", "Smart Speaker", "Voice Command System", "Intelligent Personal Assistant"],
+        "Category Name 4": ["Natural Language Processing", "Speech Recognition Technology", "Machine Learning Algorithm", "Human-Computer Interaction"]
+    },
+    "Puzzle 18": {
+        "Category Name 1": ["Red Bull Racing", "Mercedes-AMG F1 Team", "Ferrari", "McLaren"],
+        "Category Name 2": ["Scuderia AlphaTauri", "Alpine F1 Team", "Aston Martin Cognizant Formula One Team", "Williams Racing"],
+        "Category Name 3": ["Formula One Constructor", "Racing Team Owner", "Car Manufacturer Partner", "Championship Winning Driver"],
+        "Category Name 4": ["F1 World Championship Title", "Constructor's Championship Winner", "Driver's Champion", "Grand Prix Event"]
+    },
+    "Puzzle 19": {
+        "Category Name 1": ["Microsoft Teams", "Slack", "Zoom Meetings", "Google Workspace"],
+        "Category Name 2": ["Skype for Business", "Cisco Webex", "Amazon Chime", "Facebook Workplace"],
+        "Category Name 3": ["Team Collaboration Platform", "Video Conferencing Tool", "Instant Messaging App", "Virtual Meeting Room Software"],
+        "Category Name 4": ["Communication Platform as a Service", "Unified Communications System", "Enterprise Social Network", "Digital Workspace Solution"]
+    },
+    "Puzzle 20": {
+        "Category Name 1": ["Bridgestone", "Goodyear", "Michelin", "Continental"],
+        "Category Name 2": ["Nokian Tyres", "Cooper Tire & Rubber Company", "Toyo Tires", "Hankook Tire"],
+        "Category Name 3": ["Tire Manufacturer", "Automotive Component Supplier", "Vehicle Brake System Provider", "Ride-Sharing Service Partner"],
+        "Category Name 4": ["Tyre Recycling Centre", "Automotive Repair Shop", "Wheel Alignment Service", "Tire Pressure Monitoring System"]
+    },
+    "Puzzle 21": {
+        "Category Name 1": ["The Sims", "Minecraft", "Grand Theft Auto V", "Call of Duty: Modern Warfare"],
+        "Category Name 2": ["Fortnite", "PlayerUnknown's Battlegrounds", "Roblox", "World of Warcraft"],
+        "Category Name 3": ["Video Game Franchise", "Popular Online Multiplayer Game", "Open-World Adventure Game", "Role-Playing Video Game"],
+        "Category Name 4": ["Game Development Studio", "Gaming Console Platform", "Virtual Reality Experience", "Cloud Gaming Service"]
+    },
+    "Puzzle 22": {
+        "Category Name 1": ["Wikipedia", "Wikimedia Commons", "Wikibooks", "Wikiquote"],
+        "Category Name 2": ["WikiSource", "Meta-Wiki", "MediaWiki", "Wikidata"],
+        "Category Name 3": ["Online Encyclopedia", "Multilingual Wiki Project", "Free Content Sharing Platform", "Digital Knowledge Repository"],
+        "Category Name 4": ["Collaborative Editing System", "Content Management System", "Metadata Storage Database", "Web Hosting Service"]
+    },
+    "Puzzle 23": {
+        "Category Name 1": ["Tennis Australia Open", "French Open", "Wimbledon Championship", "US Open"],
+        "Category Name 2": ["Australian Grand Prix", "British Grand Prix", "German Grand Prix", "Monaco Grand Prix"],
+        "Category Name 3": ["Grand Slam Tennis Tournament", "Major Golf Event", "Top-Ranked Athlete", "Sports Stadium Venue"],
+        "Category Name 4": ["Sporting Event Sponsorship", "Team Uniform Design", "Player's Contract Negotiation", "Athlete's Agent"]
+    },
+    "Puzzle 24": {
+        "Category Name 1": ["Dell", "HP Inc.", "Lenovo", "Apple"],
+        "Category Name 2": ["ASUS", "Acer", "Microsoft Surface", "Google Pixelbook"],
+        "Category Name 3": ["Computer Hardware Manufacturer", "Mobile Device Maker", "Laptop Battery Replacement Service", "Desktop PC Component Supplier"],
+        "Category Name 4": ["Tablet Computing Platform", "Cloud Computing Solution", "Virtualization Technology Provider", "Gaming Console Developer"]
+    },
+    "Puzzle 25": {
+        "Category Name 1": ["Bayer", "Syngenta", "Monsanto", "DowAgroSciences"],
+        "Category Name 2": ["ChemChina", "Basf SE", "DuPont Pioneer", "Sinochem Group"],
+        "Category Name 3": ["Seed and Chemicals Company", "Fertilizer Manufacturer", "Genetically Modified Crop Developer", "Farm Equipment Supplier"],
+        "Category Name 4": ["Agribusiness Consulting Service", "Precision Agriculture Technology Provider", "Crop Protection Product Distributor", "Greenhouse Gas Reduction Initiative"]
+    },
+    "Puzzle 26": {
+        "Category Name 1": ["CERN", "NASA's Jet Propulsion Laboratory", "European Space Agency", "China National Space Administration"],
+        "Category Name 2": ["Roscosmos State Corporation for Space Activities", "SpaceX", "Blue Origin", "Arianespace"],
+        "Category Name 3": ["International Space Station Partner", "Planetary Exploration Mission Operator", "Rocket Launch Service Provider", "Satellite Communication Platform"],
+        "Category Name 4": ["Astrophysics Research Institution", "Astronaut Training Facility", "Spacecraft Design and Manufacturing Company", "Geostationary Orbit Satellite"]
+    },
+    "Puzzle 27": {
+        "Category Name 1": ["Instagram Reels", "TikTok Shorts", "Twitter Thread", "Facebook Watch"],
+        "Category Name 2": ["YouTube Shorts", "Vimeo Video Clips", "LinkedIn Video Showcase", "Reddit AMAs"],
+        "Category Name 3": ["Short-Form Video Content Creator", "Video-Sharing Website", "Live Streaming Platform", "Audio Podcast Series"],
+        "Category Name 4": ["Social Media Influencer Marketing Agency", "Content Creation Studio", "Digital Storytelling Workshop", "Visual Effects Software Provider"]
+    },
+    "Puzzle 28": {
+        "Category Name 1": ["Apple App Store", "Google Play Store", "Microsoft Store", "Amazon Appstore"],
+        "Category Name 2": ["Huawei AppGallery", "Samsung Galaxy Apps", "Tizen Store", "LG SmartWorld"],
+        "Category Name 3": ["Mobile Application Marketplace", "In-App Purchasing System", "Mobile Game Distribution Platform", "Cross-Platform Development Tool"],
+        "Category Name 4": ["App Review Website", "Mobile Security Software Provider", "Digital Rights Management System", "App Store Optimization Service"]
+    },
+    "Puzzle 29": {
+        "Category Name 1": ["Tesla Gigafactory", "Volkswagen ID.4 Factory", "General Motors Factory Zero", "Rivian Manufacturing Facility"],
+        "Category Name 2": ["NIO ES6 Factory", "BMW Brilliance Automotive Plant", "Ford Cologne Assembly Plant", "Mercedes-Benz Factory"],
+        "Category Name 3": ["Electric Vehicle Manufacturing Facility", "Automotive Component Supplier Plant", "Advanced Driver Assistance Systems Testing Site", "Ride-Sharing Service Hub"],
+        "Category Name 4": ["Vehicle Battery Recycling Centre", "Fuel Cell Production Line", "Assembly Line for Autonomous Vehicles", "Electric Motor Production Unit"]
+    },
+    "Puzzle 30": {
+        "Category Name 1": ["LinkedIn Learning", "Coursera", "Udemy Business", "edX Pro"],
+        "Category Name 2": ["Google Cloud Learning Platform", "Microsoft Learn", "Salesforce Trailhead", "AWS Training and Certification"],
+        "Category Name 3": ["Corporate Training Solution", "Employee Onboarding Tool", "Professional Development Course Provider", "Personalized Learning System"],
+        "Category Name 4": ["Digital Badge Issuer", "Continuing Education Credit Provider", "Micro-Credentialing Platform", "Skills Gap Analysis Service"]
+    }
+}
