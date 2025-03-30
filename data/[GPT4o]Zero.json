@@ -1,0 +1,182 @@
+{
+    "Puzzle 1": {
+        "Colors": ["Red", "Blue", "Green", "Yellow"],
+        "Fruits": ["Apple", "Banana", "Orange", "Grape"],
+        "Shapes": ["Circle", "Square", "Triangle", "Rectangle"],
+        "Animals": ["Dog", "Cat", "Elephant", "Lion"]
+    },
+    "Puzzle 2": {
+        "Planets": ["Mercury", "Venus", "Earth", "Mars"],
+        "Days of the Week": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "Instruments": ["Guitar", "Piano", "Violin", "Drums"],
+        "Sports": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "Puzzle 3": {
+        "US States": ["Texas", "California", "Florida", "New York"],
+        "Birds": ["Eagle", "Sparrow", "Parrot", "Penguin"],
+        "Jobs": ["Doctor", "Teacher", "Engineer", "Chef"],
+        "Flowers": ["Rose", "Tulip", "Lily", "Daisy"]
+    },
+    "Puzzle 4": {
+        "Car Brands": ["Toyota", "Ford", "Honda", "BMW"],
+        "Countries": ["France", "Germany", "Italy", "Spain"],
+        "Beverages": ["Water", "Juice", "Coffee", "Tea"],
+        "Musical Genres": ["Jazz", "Rock", "Pop", "Classical"]
+    },
+    "Puzzle 5": {
+        "Tools": ["Hammer", "Screwdriver", "Wrench", "Saw"],
+        "Vegetables": ["Carrot", "Potato", "Tomato", "Broccoli"],
+        "Movie Genres": ["Comedy", "Horror", "Drama", "Action"],
+        "Seasons": ["Spring", "Summer", "Fall", "Winter"]
+    },
+    "Puzzle 6": {
+        "Languages": ["English", "Spanish", "French", "German"],
+        "Famous Authors": ["Shakespeare", "Hemingway", "Austen", "Orwell"],
+        "Currencies": ["Dollar", "Euro", "Yen", "Pound"],
+        "Modes of Transport": ["Car", "Bicycle", "Train", "Airplane"]
+    },
+    "Puzzle 7": {
+        "Superheroes": ["Batman", "Superman", "Spiderman", "Ironman"],
+        "Board Games": ["Chess", "Monopoly", "Scrabble", "Clue"],
+        "Famous Landmarks": ["Eiffel Tower", "Great Wall", "Statue of Liberty", "Pyramids"],
+        "Ocean Creatures": ["Shark", "Whale", "Dolphin", "Octopus"]
+    },
+    "Puzzle 8": {
+        "Desserts": ["Cake", "Ice Cream", "Pie", "Cookies"],
+        "Musical Instruments": ["Flute", "Trumpet", "Drums", "Cello"],
+        "Clothing Items": ["Shirt", "Pants", "Hat", "Shoes"],
+        "Gems": ["Ruby", "Emerald", "Sapphire", "Diamond"]
+    },
+    "Puzzle 9": {
+        "Trees": ["Oak", "Pine", "Maple", "Birch"],
+        "Famous Painters": ["Van Gogh", "Picasso", "Da Vinci", "Monet"],
+        "Mythological Creatures": ["Dragon", "Phoenix", "Unicorn", "Griffin"],
+        "Body Parts": ["Heart", "Liver", "Brain", "Lungs"]
+    },
+    "Puzzle 10": {
+        "Programming Languages": ["Python", "Java", "C++", "Ruby"],
+        "Writers": ["Dickens", "Tolstoy", "Kafka", "Joyce"],
+        "Pets": ["Dog", "Cat", "Rabbit", "Fish"],
+        "Breakfast Foods": ["Eggs", "Toast", "Cereal", "Pancakes"]
+    },
+    "Puzzle 11": {
+        "Card Suits": ["Hearts", "Diamonds", "Clubs", "Spades"],
+        "Fast Food Chains": ["McDonald's", "Burger King", "Subway", "KFC"],
+        "Planets": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "Precious Metals": ["Gold", "Silver", "Platinum", "Copper"]
+    },
+    "Puzzle 12": {
+        "Fairy Tales": ["Cinderella", "Snow White", "Rapunzel", "Sleeping Beauty"],
+        "Ice Cream Flavors": ["Vanilla", "Chocolate", "Strawberry", "Mint"],
+        "Famous Scientists": ["Einstein", "Newton", "Curie", "Darwin"],
+        "Cheeses": ["Cheddar", "Mozzarella", "Brie", "Gouda"]
+    },
+    "Puzzle 13": {
+        "Programming Concepts": ["Loop", "Function", "Variable", "Array"],
+        "Famous Cities": ["Paris", "London", "Tokyo", "New York"],
+        "Animals": ["Tiger", "Bear", "Wolf", "Fox"],
+        "Elements": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon"]
+    },
+    "Puzzle 14": {
+        "Famous Books": ["1984", "Moby Dick", "Hamlet", "Pride and Prejudice"],
+        "Sports Equipment": ["Ball", "Bat", "Racket", "Helmet"],
+        "Fruits": ["Mango", "Pineapple", "Kiwi", "Peach"],
+        "Colors": ["Purple", "Orange", "Pink", "Brown"]
+    },
+    "Puzzle 15": {
+        "Computer Parts": ["Monitor", "Keyboard", "Mouse", "CPU"],
+        "Wild Cats": ["Lion", "Tiger", "Leopard", "Cheetah"],
+        "Languages": ["Italian", "Chinese", "Russian", "Portuguese"],
+        "Flowers": ["Orchid", "Sunflower", "Lavender", "Chrysanthemum"]
+    },
+    "Puzzle 16": {
+        "Types of Pasta": ["Spaghetti", "Penne", "Fusilli", "Ravioli"],
+        "Board Games": ["Risk", "Catan", "Life", "Candyland"],
+        "Famous Rivers": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+        "Famous Actors": ["De Niro", "Pacino", "Hanks", "DiCaprio"]
+    },
+    "Puzzle 17": {
+        "Types of Dogs": ["Beagle", "Poodle", "Bulldog", "Labrador"],
+        "Baked Goods": ["Bread", "Croissant", "Bagel", "Muffin"],
+        "Countries in Asia": ["China", "India", "Japan", "Thailand"],
+        "Famous Mountains": ["Everest", "Kilimanjaro", "K2", "Denali"]
+    },
+    "Puzzle 18": {
+        "Famous Bands": ["Beatles", "Queen", "Nirvana", "Coldplay"],
+        "Planets": ["Earth", "Mars", "Venus", "Saturn"],
+        "Video Games": ["Minecraft", "Fortnite", "Zelda", "Halo"],
+        "Famous Bridges": ["Golden Gate", "Brooklyn", "Tower", "Sydney Harbour"]
+    },
+    "Puzzle 19": {
+        "Types of Fish": ["Salmon", "Tuna", "Trout", "Cod"],
+        "Historical Events": ["WWII", "Moon Landing", "French Revolution", "Fall of Berlin Wall"],
+        "Famous Philosophers": ["Plato", "Aristotle", "Socrates", "Kant"],
+        "Card Games": ["Poker", "Bridge", "Go Fish", "Uno"]
+    },
+    "Puzzle 20": {
+        "Types of Clouds": ["Cumulus", "Stratus", "Cirrus", "Nimbus"],
+        "Famous Explorers": ["Columbus", "Magellan", "Cook", "Marco Polo"],
+        "Types of Cheese": ["Feta", "Swiss", "Parmesan", "Camembert"],
+        "Famous Composers": ["Mozart", "Beethoven", "Bach", "Chopin"]
+    },
+    "Puzzle 21": {
+        "Types of Hats": ["Fedora", "Beret", "Sombrero", "Bowler"],
+        "Ocean Creatures": ["Jellyfish", "Crab", "Starfish", "Seahorse"],
+        "Famous Kings": ["Henry VIII", "Louis XIV", "Alexander the Great", "Tutankhamun"],
+        "Famous Queens": ["Elizabeth I", "Victoria", "Cleopatra", "Marie Antoinette"]
+    },
+    "Puzzle 22": {
+        "Types of Bread": ["Sourdough", "Rye", "Baguette", "Ciabatta"],
+        "Greek Gods": ["Zeus", "Hera", "Poseidon", "Athena"],
+        "Famous Wars": ["Civil War", "WWI", "WWII", "Vietnam War"],
+        "Famous Novels": ["Jane Eyre", "Wuthering Heights", "The Great Gatsby", "1984"]
+    },
+    "Puzzle 23": {
+        "Types of Tea": ["Green", "Black", "Herbal", "Chai"],
+        "Famous Painters": ["Rembrandt", "Dali", "Matisse", "Pollock"],
+        "Famous Dancers": ["Baryshnikov", "Astaire", "Graham", "Balanchine"],
+        "Types of Wine": ["Merlot", "Chardonnay", "Cabernet", "Pinot Noir"]
+    },
+    "Puzzle 24": {
+        "Famous Buildings": ["Colosseum", "Taj Mahal", "Big Ben", "Sydney Opera House"],
+        "Famous Poets": ["Frost", "Whitman", "Poe", "Wordsworth"],
+        "Types of Birds": ["Hawk", "Owl", "Flamingo", "Peacock"],
+        "Famous Directors": ["Spielberg", "Kubrick", "Hitchcock", "Scorsese"]
+    },
+    "Puzzle 25": {
+        "Famous Philosophies": ["Existentialism", "Stoicism", "Utilitarianism", "Nihilism"],
+        "Famous Architects": ["Wright", "Le Corbusier", "Gehry", "Hadid"],
+        "Famous Parks": ["Yellowstone", "Yosemite", "Grand Canyon", "Zion"],
+        "Famous Poets": ["Byron", "Shelley", "Keats", "Blake"]
+    },
+    "Puzzle 26": {
+        "Famous Sculptures": ["David", "Venus de Milo", "The Thinker", "Pieta"],
+        "Famous Musicals": ["Cats", "Hamilton", "Les Misérables", "Phantom of the Opera"],
+        "Famous Islands": ["Hawaii", "Bali", "Santorini", "Maldives"],
+        "Famous Writers": ["Homer", "Virgil", "Dante", "Milton"]
+    },
+    "Puzzle 27": {
+        "Famous Rivers": ["Thames", "Seine", "Danube", "Volga"],
+        "Famous Lakes": ["Victoria", "Baikal", "Superior", "Tahoe"],
+        "Famous Deserts": ["Sahara", "Gobi", "Kalahari", "Atacama"],
+        "Famous Forests": ["Amazon", "Black Forest", "Sherwood", "Taiga"]
+    },
+    "Puzzle 28": {
+        "Famous Beaches": ["Bondi", "Copacabana", "Waikiki", "Myrtle"],
+        "Famous Festivals": ["Carnival", "Diwali", "Oktoberfest", "Mardi Gras"],
+        "Famous Monuments": ["Mount Rushmore", "Stonehenge", "Christ the Redeemer", "Lincoln Memorial"],
+        "Famous Cuisines": ["Italian", "Mexican", "Indian", "Thai"]
+    },
+    "Puzzle 29": {
+        "Famous Astronomers": ["Galileo", "Copernicus", "Kepler", "Hubble"],
+        "Famous Mathematicians": ["Euler", "Gauss", "Pythagoras", "Archimedes"],
+        "Famous Biologists": ["Darwin", "Mendel", "Watson", "Crick"],
+        "Famous Chemists": ["Mendeleev", "Curie", "Boyle", "Avogadro"]
+    },
+    "Puzzle 30": {
+        "Famous Mountains": ["Everest", "Kilimanjaro", "Matterhorn", "Fuji"],
+        "Famous Valleys": ["Grand Canyon", "Yosemite Valley", "Rift Valley", "Death Valley"],
+        "Famous Plateaus": ["Deccan", "Colorado", "Tibetan", "Altiplano"],
+        "Famous Glaciers": ["Perito Moreno", "Vatnajökull", "Hubbard", "Lambert"]
+    }
+}
