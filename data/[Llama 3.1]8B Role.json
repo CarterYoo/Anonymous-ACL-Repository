@@ -1,4 +1,3 @@
-puzzles = {
     "Puzzle 1": {
         "Musical Compositions": ["Minuet", "Nocturne", "Overture", "Sonata"],
         "Famous Painters": ["Van Gogh", "Monet", "Renoir", "Degas"],
@@ -179,4 +178,3 @@ puzzles = {
         "Parts of a Tree": ["Roots", "Trunk", "Branches", "Leaves"],
         "Types of Rock Formations": ["Granite", "Basalt", "Sandstone", "Limestone"]
     }
-}
