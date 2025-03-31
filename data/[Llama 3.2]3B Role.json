@@ -1,0 +1,1791 @@
+{
+  "Category Name": ["Riven", "Silhouette", "Fracture", "Sculptor"],
+  "Category Name": ["Thief", "Builder", "Vigilante", "Destroyer"],
+  "Category Name": ["Finesse", "Clumsiness", "Cunning", "Brutality"],
+  "Category Name": ["Silent", "Audacious", "Obstructive", "Resolute"]
+}
+
+{
+  "Category Name": ["Gambit", "Pretender", "Imposter", "Mischief"],
+  "Category Name": ["Schemer", "Deceiver", "Forger", "Swindler"],
+  "Category Name": ["Fraud", "Cheating", "Deception", "Duplicity"],
+  "Category Name": ["Ruse", "Subterfuge", "Guile", "Cunning"]
+}
+
+{
+  "Category Name": ["Liminal", "Threshold", "Transition", "Borderline"],
+  "Category Name": ["In-between", "Gray area", "Uncertain", "Ambiguous"],
+  "Category Name": ["Vague", "Indistinct", "Fuzzy", "Un-defined"],
+  "Category Name": ["Hazy", "Murky", "Obscure", "Clouded"]
+}
+
+{
+  "Category Name": ["Coda", "Epilogue", "Finale", "Conclusion"],
+  "Category Name": ["Preface", "Introduction", "Prologue", "Beginning"],
+  "Category Name": ["Endpiece", "Final section", "Last part", "Ultimate"],
+  "Category Name": ["Supplement", "Addendum", "Appendix", "Afterthought"]
+}
+
+{
+  "Category Name": ["Bastion", "Stronghold", "Fortress", "Redoubt"],
+  "Category Name": ["Shield", "Barrier", "Obstacle", "Hindrance"],
+  "Category Name": ["Refuge", "Sanctuary", "Asylum", "Safeguard"],
+  "Category Name": ["Sentinel", "Guardian", "Watchman", "Defender"]
+}
+
+{
+  "Category Name": ["Garrulous", "Talkative", "Loquacious", "Voluble"],
+  "Category Name": ["Reticent", "Silent", "Mute", "Taciturn"],
+  "Category Name": ["Loose-lipped", "Chatty", "Fond of talking", "Conversational"],
+  "Category Name": ["Prolific speaker", "Talkative person", "Verbose", "Effusive"]
+}
+
+{
+  "Category Name": ["Catharsis", "Therapy", "Atonement", "Redemption"],
+  "Category Name": ["Rehabilitation", "Reform", "Reparations", "Amends"],
+  "Category Name": ["Penitence", "Penance", "Sorrow", "Regret"],
+  "Category Name": ["Salvation", "Healing", "Curing", "Restoration"]
+}
+
+{
+  "Category Name": ["Malediction", "Curse", "Hex", "Banishment"],
+  "Category Name": ["Wishing well", "Favor", "Benefit", "Good luck"],
+  "Category Name": ["Blessing", "Gratitude", "Thankfulness", "Praise"],
+  "Category Name": ["Uxoricide", "Patricide", "Matricide", "Infanticide"]
+}
+
+{
+  "Category Name": ["Cacophony", "Discord", "Chaos", "Mayhem"],
+  "Category Name": ["Harmony", "Symphony", "Order", "Balance"],
+  "Category Name": ["Jazz", "Blues", "Rock", "Classical"],
+  "Category Name": ["Noise pollution", "Background noise", "Static", "White noise"]
+}
+
+{
+  "Category Name": ["Crescendo", "Decrescendo", "Fortissimo", "Pianissimo"],
+  "Category Name": ["Volume", "Loudness", "Sound level", "Amplitude"],
+  "Category Name": ["Dynamic range", "Frequency response", "Spectrum", "Timbre"],
+  "Category Name": ["Pitch", "Tone", "Melody", "Harmony"]
+}
+
+{
+  "Category Name": ["Memento mori", "Warning sign", "Admonition", "Cautionary tale"],
+  "Category Name": ["Urgent message", "Alarms", "Notifications", "Alerts"],
+  "Category Name": ["Warning label", "Signage", "Banners", "Slogans"],
+  "Category Name": ["Doomsday scenario", "Apocalypse", "End times", "Armageddon"]
+}
+
+{
+  "Category Name": ["Ephemeral", "Transitory", "Fleeting", "Momentary"],
+  "Category Name": ["Permanent", "Lasting", "Enduring", "Timeless"],
+  "Category Name": ["Inconstant", "Unreliable", "Untrustworthy", "Unpredictable"],
+  "Category Name": ["Volatile", "Turbulent", "Instable", "Unstable"]
+}
+
+{
+  "Category Name": ["Gnosis", "Insight", "Eureka moment", "Aha!"],
+  "Category Name": ["Intuition", "Hunch", "Premonition", "Foreboding"],
+  "Category Name": ["Discernment", "Judgment", "Counsel", "Wisdom"],
+  "Category Name": ["Reasoning", "Logic", "Argumentation", "Analysis"]
+}
+
+{
+  "Category Name": ["Vagary", "Whim", "Fancy", "Caprice"],
+  "Category Name": ["Impulse", "Instinct", "Gut feeling", "Intuition"],
+  "Category Name": ["Trend", "Fashion", "Craze", "Mania"],
+  "Category Name": ["Mood swing", "Bipolar", "Temperament", "Personality"]
+}
+
+{
+  "Category Name": ["Vouchsafement", "Certification", "Authentication", "Validation"],
+  "Category Name": ["Denial", "Rejection", "Dismissal", "Negation"],
+  "Category Name": ["Affirmation", "Confirmation", "Agreement", "Consent"],
+  "Category Name": ["Indictment", "Accusation", "Condemnation", "Blame"]
+}
+
+{
+  "Category Name": ["Graft", "Plagiarism", "Pilfering", "Larceny"],
+  "Category Name": ["Theft", "Robbery", "Burglary", "Vandalism"],
+  "Category Name": ["Embezzlement", "Misappropriation", "Evasion", "Evasion of duty"],
+  "Category Name": ["Falsification", "Fabrication", "Invention", "Deception"]
+}
+
+{
+  "Category Name": ["Abstruse", "Recondite", "Obscure", "Enigmatic"],
+  "Category Name": ["Mysterious", "Cryptic", "Esoteric", "Secretive"],
+  "Category Name": ["Vague", "Indistinct", "Fuzzy", "Un-defined"],
+  "Category Name": ["Ephemeral", "Transitory", "Fleeting", "Momentary"]
+}
+
+{
+  "Category Name": ["Axiom", "Postulate", "Dogma", "Maxim"],
+  "Category Name": ["Principle", "Theory", "Hypothesis", "Proposition"],
+  "Category Name": ["Assumption", "Inference", "Argumentation", "Conclusion"],
+  "Category Name": ["Tenet", "Article of faith", "Belief", " Creed"]
+}
+
+{
+  "Category Name": ["Paradox", "Enigma", "Dilemma", "Conundrum"],
+  "Category Name": ["Riddle", "Puzzle", "Brain teaser", "Lateral thinking problem"],
+  "Category Name": ["Anomaly", "Exception", "Outlier", "Anachronism"],
+  "Category Name": ["Illogical conclusion", "Fallacy", "Error", "Mistake"]
+}
+
+{
+  "Category Name": ["Hypothetical", "Theoretical", "Speculative", "Provisional"],
+  "Category Name": ["Pragmatic", "Practical", "Down-to-earth", "Realistic"],
+  "Category Name": ["Abstract", "Intangible", "Ethereal", "Invisible"],
+  "Category Name": ["Tentative", "Preliminary", "Preliminatory", "Provisional"]
+}
+
+{
+  "Category Name": ["Mimesis", "Imitation", "Simulation", "Replica"],
+  "Category Name": ["Abstraction", "Generalization", "Idealization", "Oversimplification"],
+  "Category Name": ["Stereotype", "Cliché", "Tropé", "Commonplace"],
+  "Category Name": ["Distortion", "Manipulation", "Misrepresentation", "Deception"]
+}
+
+{
+  "Category Name": ["Benevolent", "Well-meaning", "Charitable", "Altruistic"],
+  "Category Name": ["Malevolent", "Wicked", "Evil", "Nefarious"],
+  "Category Name": ["Selfish", "Egocentric", "Narcissistic", "Vain"],
+  "Category Name": ["Unselfish", "Altruistic", "Generous", "Philanthropic"]
+}
+
+{
+  "Category Name": ["Cohesion", "Unity", "Synchrony", "Harmony"],
+  "Category Name": ["Diversity", "Separateness", "Dissonance", "Conflict"],
+  "Category Name": ["Interconnectedness", "Relationships", "Correlation", "Association"],
+  "Category Name": ["Independence", "Autonomy", "Freedom", "Liberty"]
+}
+
+{
+  "Category Name": ["Fragility", "Delicacy", "Vulnerability", "Susceptibility"],
+  "Category Name": ["Sturdiness", "Robustness", "Strength", "Durability"],
+  "Category Name": ["Permeability", "Porousness", "Transparency", "Accessibility"],
+  "Category Name": ["Impermeability", "Imperviousness", "Inpenetrability", "Indestructibility"]
+}
+
+{
+  "Category Name": ["Ephemeron", "Memento Mori", "Tempora mutantur", "Carpe diem"],
+  "Category Name": ["Immutability", "Permanence", "Stasis", "Unchanging"],
+  "Category Name": ["Fluctuation", "Variation", "Change", "Progression"],
+  "Category Name": ["Sedentary", "Stationary", "Inert", "Dormant"]
+}
+
+{
+  "Category Name": ["Aporia", "Perplexity", "Confusion", "Enigma"],
+  "Category Name": ["Certainty", "Confidence", "Conviction", "Assurance"],
+  "Category Name": ["Uncertainty", "Doubt", "Suspicion", "Mistrust"],
+  "Category Name": ["Indecisiveness", "Hesitance", "Timidity", "Apprehension"]
+}
+
+{
+  "Category Name": ["Synesthesia", "Cross-sensory experience", "Multimodal perception", "Intermodal experience"],
+  "Category Name": ["Sensory substitution", "Tactile-visual synesthesia", "Auditory-tactile synesthesia", "Olfactory-visual synesthesia"],
+  "Category Name": ["Neuroplasticity", "Brain reorganization", "Cognitive flexibility", "Adaptability"],
+  "Category Name": ["Multimodal integration", "Cross-modal processing", "Sensory convergence", "Inter-sensory coordination"]
+}
+
+{
+  "Category Name": ["Nexus", "Connection", "Interface", "Linkage"],
+  "Category Name": ["Disconnection", "Dissociation", "Separation", "Isolation"],
+  "Category Name": ["Transition", "Change", "Shift", "Movement"],
+  "Category Name": ["Boundary", "Borderline", "Threshold", "Liminal space"]
+}
+
+{
+  "Category Name": ["Circumstance", "Condition", "Event", "Incident"],
+  "Category Name": ["Situation", "State", "Context", "Ambience"],
+  "Category Name": ["Moment", "Instance", "Episode", "Case"],
+  "Category Name": ["Happening", "Occurrence", "Incident", "Adventure"]
+}
+
+{
+  "Category Name": ["Dichotomy", "Binary opposition", "Contrast", "Polarization"],
+  "Category Name": ["Tetrad", "Quaternity", "Fourfold structure", "Dualism"],
+  "Category Name": ["Trichotomy", "Three-part harmony", "Harmony of opposites", "Balance of forces"],
+  "Category Name": ["Monism", "Single-mindedness", "Unity", "Oneness"]
+}
+
+{
+  "Category Name": ["Mellifluous", "Sonorous", "Melodious", "Harmonious"],
+  "Category Name": ["Discordant", "Clashing", "Jarring", "Grating"],
+  "Category Name": ["Tonal", "Pitched", "Pitched music", "Music with pitch"],
+  "Category Name": ["Timbreless", "Flat", "Lifeless", "Uninteresting"]
+}
+
+{
+  "Category Name": ["Fluxion", "Flowing", "Current", "Stream"],
+  "Category Name": ["Stationary", "Still", "Static", "Frozen"],
+  "Category Name": ["Movement", "Motion", "Action", "Activity"],
+  "Category Name": ["Change", "Variation", "Progression", "Evolution"]
+}
+
+{
+  "Category Name": ["Pulsar", "Star", "Planet", "Moon"],
+  "Category Name": ["Asteroid", "Comet", "Meteorite", "Debris"],
+  "Category Name": ["Black hole", "Dark matter", "Dark energy", "Gravitational wave"],
+  "Category Name": ["Solar system", "Galaxy", "Cosmos", "Universe"]
+}
+
+{
+  "Category Name": ["Inscrutable", "Enigmatic", "Mysterious", "Cryptic"],
+  "Category Name": ["Transparent", "Clear", "Obvious", "Luminous"],
+  "Category Name": ["Vague", "Indistinct", "Fuzzy", "Un-defined"],
+  "Category Name": ["Uncertain", "Doubtful", "Questionable", "Suspect"]
+}
+
+{
+  "Category Name": ["Perfidious", "Disloyal", "Traitorous", "Deceitful"],
+  "Category Name": ["Loyal", "Faithful", "True", "Reliable"],
+  "Category Name": ["Honest", "Sincere", "Genuine", "Authentic"],
+  "Category Name": ["Untrustworthy", "Dishonest", "Falsifying", "Deceptive"]
+}
+
+{
+  "Category Name": ["Ephemeral", "Transitory", "Fleeting", "Momentary"],
+  "Category Name": ["Enduring", "Permanent", "Steady", "Constant"],
+  "Category Name": ["Fluctuating", "Changing", "Variable", "Inconstant"],
+  "Category Name": ["Unchanging", "Unmovable", "Immutable", "Indestructible"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Paradoxical", "Enigmatic", "Cryptic", "Mysterious"],
+  "Category Name": ["Obvious", "Clear", "Straightforward", "Explicit"],
+  "Category Name": ["Vague", "Indistinct", "Fuzzy", "Un-defined"],
+  "Category Name": ["Uncertain", "Doubtful", "Questionable", "Suspect"]
+}
+
+{
+  "Category Name": ["Convergence", "Intersection", "Meeting", "Encounter"],
+  "Category Name": ["Divergence", "Separation", "Distinction", "Disjunction"],
+  "Category Name": ["Alignment", "Cooperation", "Harmony", "Synthesis"],
+  "Category Name": ["Conflict", "Tension", "Strife", "Rivalry"]
+}
+
+{
+  "Category Name": ["Liminal", "Threshold", "Borderline", "Transition zone"],
+  "Category Name": ["Fixed point", "Terminal", "End", "Boundary"],
+  "Category Name": ["Changeless", "Unchanging", "Indestructible", "Invulnerable"],
+  "Category Name": ["Variable", "Fluctuating", "Inconstant", "Ephemeral"]
+}
+
+{
+  "Category Name": ["Immediacy", "Promptness", "Speed", "Swiftness"],
+  "Category Name": ["Delays", "Lag", "Slowness", "Gradualness"],
+  "Category Name": ["Rush", "Haste", "Fleeting", "Momentary"],
+  "Category Name": ["Persistence", "Duration", "Enduring", "Steady"]
+}
+
+{
+  "Category Name": ["Asymmetry", "Unevenness", "Disproportion", "Unbalance"],
+  "Category Name": ["Symmetry", "Balance", "Harmony", "Equilibrium"],
+  "Category Name": ["Regularity", "Uniformity", "Conformity", "Homogeneity"],
+  "Category Name": ["Inconsistency", "Disharmony", "Tension", "Conflict"]
+}
+
+{
+  "Category Name": ["Proximity", "Neighbourhood", "Surrounding", "Adjoining"],
+  "Category Name": ["Distance", "Separateness", "Isolation", "Solitude"],
+  "Category Name": ["Enclosure", "Boundary", "Limitation", "Restraint"],
+  "Category Name": ["Extension", "Projection", "Spread", "Propagation"]
+}
+
+{
+  "Category Name": ["Aberrant", "Deviant", "Unusual", "Atypical"],
+  "Category Name": ["Normal", "Typical", "Standard", "Ordinary"],
+  "Category Name": ["Anomalous", "Outlier", "Maverick", "Nonconformist"],
+  "Category Name": ["Conformist", "Compliant", "Obedient", "Submissive"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Dullness"],
+  "Category Name": ["Awareness", "Knowledge", "Understanding", "Comprehension"],
+  "Category Name": ["Unconsciousness", "Ignorance", "Misconceptions", "Blindness"]
+}
+
+{
+  "Category Name": ["Periphery", "Border", "Outskirts", "Edges"],
+  "Category Name": ["Centre", "Core", "Hub", "Nucleus"],
+  "Category Name": ["Boundary", "Limit", "Edge", "Threshold"],
+  "Category Name": ["Extension", "Projection", "Spread", "Propagation"]
+}
+
+{
+  "Category Name": ["Repression", "Censorship", "Suppression", "Disavowal"],
+  "Category Name": ["Expression", "Freedom", "Openness", "Authenticity"],
+  "Category Name": ["Secrecy", "Confidentiality", "Covert", "Classified"],
+  "Category Name": ["Transparency", "Clarity", "Lack of secrecy", "No hiding"]
+}
+
+{
+  "Category Name": ["Pacification", "Calmness", "Serenity", "Tranquility"],
+  "Category Name": ["Disturbance", "Disorder", "Turmoil", "Chaos"],
+  "Category Name": ["Stability", "Consistency", "Regularity", "Order"],
+  "Category Name": ["Instability", "Variability", "Unpredictability", "Fluctuation"]
+}
+
+{
+  "Category Name": ["Imprisonment", "Captivity", "Confinement", "Restraint"],
+  "Category Name": ["Freedom", "Liberty", "Autonomy", "Independence"],
+  "Category Name": ["Enslavement", "Oppression", "Bondage", "Servitude"],
+  "Category Name": ["Escape", "Evasion", "Flight", "Flighty"]
+}
+
+{
+  "Category Name": ["Revelation", "Disclosure", "Exposure", "Unmasking"],
+  "Category Name": ["Secrecy", "Concealment", "Cover-up", "Misdirection"],
+  "Category Name": ["Openness", "Clarity", "Transparency", "Lack of secrecy"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Regeneration", "Rebirth", "Renewal", "Revival"],
+  "Category Name": ["Decay", "Deterioration", "Decline", "Disintegration"],
+  "Category Name": ["Growth", "Expansion", "Increase", "Increasement"],
+  "Category Name": ["Shrinkage", "Contraction", "Decrease", "Lessening"]
+}
+
+{
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Division", "Separation", "Fragmentation", "Disjointedness"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Catharsis", "Purification", "Scapegoating", "Exorcism"],
+  "Category Name": ["Compensation", "Indulgence", "Escapism", "Denial"],
+  "Category Name": ["Reparation", "Remedy", "Amends", "Redemption"],
+  "Category Name": ["Punishment", "Retribution", "Penalty", "Revenge"]
+}
+
+{
+  "Category Name": ["Nostalgia", "Sentimentality", "Wistfulness", "Yearning"],
+  "Category Name": ["Uptightness", "Stiffness", "Formalism", "Rigidity"],
+  "Category Name": ["Adaptability", "Flexibility", "Spontaneity", "Improvisation"],
+  "Category Name": ["Restlessness", "Agitation", "Turbulence", "Vagueness"]
+}
+
+{
+  "Category Name": ["Ephemeralization", "Temporalization", "Fleetingness", "Momentariness"],
+  "Category Name": ["Stability", "Permanence", "Endurance", "Durability"],
+  "Category Name": ["Fluctuation", "Variability", "Unpredictability", "Instability"],
+  "Category Name": ["Consistency", "Regularity", "Orderliness", "Liveliness"]
+}
+
+{
+  "Category Name": ["Excess", "Overindulgence", "Greed", "Selfishness"],
+  "Category Name": ["Abstinence", "Moderation", "Restraint", "Self-denial"],
+  "Category Name": ["Proportionality", "Balance", "Harmony", "Equilibrium"],
+  "Category Name": ["Disproportionateness", "Inbalance", "Tension", "Conflict"]
+}
+
+{
+  "Category Name": ["Abstraction", "Generalization", "Universalization", "Theoreticalization"],
+  "Category Name": ["Concreteness", "Particularity", "Specificity", "Practicality"],
+  "Category Name": ["Idealism", "Utopianism", "Idealization", "Elevated thinking"],
+  "Category Name": ["Pragmatism", "Practicality", "Down-to-earthness", "Realism"]
+}
+
+{
+  "Category Name": ["Surrender", "Relinquishment", "Concessions", "Submission"],
+  "Category Name": ["Resistance", "Opposition", "Rejection", "Denial"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
+
+{
+  "Category Name": ["Adversity", "Difficulty", "Challenge", "Obstacle"],
+  "Category Name": ["Ease", "Simplicity", "Freedom", "Opportunity"],
+  "Category Name": ["Hurdle", "Barrier", "Restriction", "Limitation"],
+  "Category Name": ["Advantage", "Benefit", "Utility", "Advantagement"]
+}
+
+{
+  "Category Name": ["Vigilance", "Attention", "Watchfulness", "Perception"],
+  "Category Name": ["Neglect", "Indifference", "Distractibility", "Apathy"],
+  "Category Name": ["Compliance", "Accommodation", "Cooperation", "Collaboration"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Rigorism", "Stiffness", "Inflexibility", "Dogmatism"],
+  "Category Name": ["Flexibility", "Adaptability", "Spontaneity", "Improvisation"],
+  "Category Name": ["Conformity", "Uniformity", "Standardization", "Routine"],
+  "Category Name": ["Nonconformity", "Divergence", "Uniqueness", "Individuality"]
+}
+
+{
+  "Category Name": ["Exaggeration", "Hyperbole", "Inflation", "Overstatement"],
+  "Category Name": ["Moderation", "Balance", "Restraint", "Self-control"],
+  "Category Name": ["Proportionality", "Scale", "Size", "Amount"],
+  "Category Name": ["Disproportionateness", "Exaggeration", "Overemphasis", "Overkill"]
+}
+
+{
+  "Category Name": ["Paradoxicality", "Enigmaticity", "Crypticness", "Mystery"],
+  "Category Name": ["Clarity", "Simplicity", "Explicitness", "Directness"],
+  "Category Name": ["Obscurity", "Complexity", "Ambiguity", "Uncertainty"],
+  "Category Name": ["Vagueness", "Indistinctness", "Fuzziness", "Unclariness"]
+}
+
+{
+  "Category Name": ["Negativity", "Pessimism", "Cynicism", "Doubtfulness"],
+  "Category Name": ["Positivism", "Optimism", "Confidence", "Faithfulness"],
+  "Category Name": ["Indifference", "Apathy", "Neutralness", "Lack of conviction"],
+  "Category Name": ["Strong-willedness", "Determination", "Resoluteness", "Perseverance"]
+}
+
+{
+  "Category Name": ["Disagreement", "Dissent", "Opposition", "Conflict"],
+  "Category Name": ["Agreement", "Consensus", "Accord", "Harmony"],
+  "Category Name": ["Tolerance", "Patience", "Compliance", "Cooperation"],
+  "Category Name": ["Insistence", "Firmness", "Tenacity", "Perseverance"]
+}
+
+{
+  "Category Name": ["Separation", "Divergence", "Division", "Fragmentation"],
+  "Category Name": ["Unification", "Integration", "Synthesis", "Union"],
+  "Category Name": ["Harmony", "Cooperation", "Balance", "Equilibrium"],
+  "Category Name": ["Dissension", "Conflict", "Rivalry", "Tension"]
+}
+
+{
+  "Category Name": ["Solicitude", "Concern", "Care", "Attention"],
+  "Category Name": ["Neglect", "Indifference", "Apathy", "Lack of concern"],
+  "Category Name": ["Empathy", "Pity", "Sympathy", "Understanding"],
+  "Category Name": ["Absence of solicitude", "Callousness", "Cruelty", "Inhumanity"]
+}
+
+{
+  "Category Name": ["Vulnerability", "Susceptibility", "Weakness", "Tenderness"],
+  "Category Name": ["Strength", "Resilience", "Sturdiness", "Durability"],
+  "Category Name": ["Fragility", "Delicacy", "Ephemerality", "Flawlessness"],
+  "Category Name": ["Inviolability", "Impenetrability", "Indestructibility", "Invulnerability"]
+}
