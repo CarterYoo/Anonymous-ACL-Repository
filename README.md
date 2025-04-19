@@ -1,5 +1,4 @@
-# LLMs as Deceptive Agents: How Role-Based Prompting Induces Semantic Ambiguity in
-Puzzle Tasks
+# LLMs as Deceptive Agents: How Role-Based Prompting Induces Semantic Ambiguity in Puzzle Tasks
 
 This repository contains the code, data, and prompts for the paper:
 **"Exploiting Linguistic Ambiguity: Evaluating Adversarial Intent in Large Language Models Through Puzzle Generation"** (ACL SRW 2025)
